@@ -32,7 +32,7 @@ sections:
 sections_1_type:
   - default
 sections_1_image:
-  - "390"
+  - "240"
 sections_1_video:
   - ""
 sections_1_size:
@@ -48,7 +48,7 @@ sections_1_copy:
 sections_2_type:
   - highlight
 sections_2_image:
-  - "327"
+  - "241"
 sections_2_video:
   - ""
 sections_2_size:
