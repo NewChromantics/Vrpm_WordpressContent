@@ -12,3 +12,4 @@ banner_media_type:
 sections:
   - "0"
 ---
+[contact-form-7 id="25" title="Contact form 1"]
