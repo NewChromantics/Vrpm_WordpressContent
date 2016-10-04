@@ -29,10 +29,8 @@ sections_0_parallax:
   - ""
 sections_0_copy:
   - |
-    <h1>Heading example</h1>
-    VRPM was started because of a shared opinion that there is a better way to view property than just photographs, floor plans and blurb.
-    
-    Once experienced, VR becomes obvious for property as virtual reality enhances every situation where a photo is used for marketing. The ability to be able to get a real sense of space and volume without having to go there can help to reinforce and make decisions.
+    <h1>Get in touch</h1>
+    If you want to find out more about virtual reality for property then get in touch to arrange a demonstration.
 sections_0_three_column_content_0_copy:
   - ""
 sections_0_three_column_content_1_copy:
