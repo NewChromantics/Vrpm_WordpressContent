@@ -38,6 +38,8 @@ sections_1_copy:
     <h2>Who are VRPM?</h2>
     <span style="font-weight: 400;">VRPM is a collaboration between Analog Studio, a VR developer and two estate agents.  </span>
     
+    &nbsp;
+    
     https://vimeo.com/176762261
 sections:
   - "2"
