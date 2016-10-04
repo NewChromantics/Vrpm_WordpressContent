@@ -14,4 +14,4 @@ sections:
 ---
 &nbsp;
 
-[contact-form-7 id="25" title="Contact form 1"]
+&nbsp;
