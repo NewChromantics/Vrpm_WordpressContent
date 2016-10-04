@@ -235,10 +235,10 @@ sections_3_media_type:
   - image
   - image
 sections_3_video:
-  - ""
-  - ""
-  - ""
-  - ""
+  - "86"
+  - "86"
+  - "86"
+  - "86"
 sections_0_image_0_image:
   - "19"
 sections_0_image_0_size:
@@ -310,7 +310,7 @@ sections_2_three_column_content_2_copy:
 sections_2_three_column_content:
   - "3"
 sections_3_media:
-  - image
+  - video
 sections_3_parallax:
   - ""
 sections_3_three_column_content_0_copy:
