@@ -41,30 +41,8 @@ sections_1_copy:
     https://vimeo.com/176762261
 sections:
   - "2"
-team_0_image:
-  - "230"
-team_0_bio:
-  - >
-    Mike is an accomplished fighter who
-    wants to be known as Rolling Thunder.
-team_1_image:
-  - "231"
-team_1_bio:
-  - Will is cool.
-team_2_image:
-  - "232"
-team_2_bio:
-  - Alex is not cool.
 team:
-  - "5"
-team_3_image:
-  - "233"
-team_3_bio:
-  - Flamingo is pink and stands on one leg.
-team_4_image:
-  - "234"
-team_4_bio:
-  - Graham has an enormous beard.
+  - "0"
 banner_media_type:
   - parallax
 sections_0_media:
