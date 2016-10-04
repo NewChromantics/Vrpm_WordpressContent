@@ -12,4 +12,3 @@ banner_media_type:
 sections:
   - "0"
 ---
-[ninja_form id=1]
