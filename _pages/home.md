@@ -87,19 +87,19 @@ sections_2_image:
 sections_2_copy:
   - |
     <h3>Capture</h3>
-    <h4>Market property in virtual reality</h4>
+    <h4>Market property with virtual reality</h4>
     Our bespoke software allows us to both capture and create high quality, cost effective 3D virtual walk throughs of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
     <h3>Capture</h3>
-    <h4>Market property in virtual reality</h4>
+    <h4>Market property with virtual reality</h4>
     Our bespoke software allows us to both capture and create high quality, cost effective 3D virtual walk throughs of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
     <h3>Capture</h3>
-    <h4>Market property in virtual reality</h4>
+    <h4>Market property with virtual reality</h4>
     Our bespoke software allows us to both capture and create high quality, cost effective 3D virtual walk throughs of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
     <h3>Capture</h3>
-    <h4>Market property in virtual reality</h4>
+    <h4>Market property with virtual reality</h4>
     Our bespoke software allows us to both capture and create high quality, cost effective 3D virtual walk throughs of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
 sections_3_type:
   - default
@@ -269,7 +269,7 @@ sections_4_copy:
     <h4>Bespoke design and build</h4>
     As well as capturing physical spaces, we can design and build fully immersive VR spaces.  Allowing property developers and New Homes agents to market unbuilt properties and remain ahead of the curve.
     
-    &nbsp;
+    <a class="btn" href="http://www.vrpm.co.uk/build">More</a>
     <h4></h4>
 banner_media_type:
   - video
