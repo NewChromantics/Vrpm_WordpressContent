@@ -26,7 +26,7 @@ sections_0_copy:
     
     The ability to accurately present exactly what a building will look like both inside and out before it has been built is a powerful tool.  With accurate 3D visualisation of a building from the outside and then a virtual reality tour inside, anyone buying something off-plan can make a more informed decision.
     
-    <a class="btn" href="#">Contact us</a>
+    <a class="btn" href="http://[contact-form-7 id=&quot;25&quot; title=&quot;Contact form 1&quot;]">Contact us</a>
 sections:
   - "3"
 sections_1_type:
