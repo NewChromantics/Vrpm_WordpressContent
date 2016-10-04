@@ -44,7 +44,7 @@ sections_1_copy:
     <h2>What would your ideal space look like?</h2>
     VRPM can help you create your perfect ‘lobby’ space in which to host your virtual reality presentations.   Ever dreamed of having your perfect office on a beach, or on top of a skyscraper, maybe even on board the Millennium Falcon?
     
-    We can build your own branded version of this for people to explore your virtual reality presentations.  With intuitive ways to search for and present property this is a superb addition to your digital real estate.
+    We can build a custom branded version of this to enable people to explore your virtual reality presentations.  With intuitive ways to search for and present property this is a superb addition to your digital real estate.
 sections_2_type:
   - highlight
 sections_2_image:
