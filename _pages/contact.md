@@ -12,6 +12,3 @@ banner_media_type:
 sections:
   - "0"
 ---
-&nbsp;
-
-&nbsp;
