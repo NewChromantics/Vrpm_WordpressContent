@@ -11,7 +11,7 @@ published: true
 ---
 <h1>Everyone loves a good wedding.</h1>
 <h3>Could Virtual Reality help choose the perfect venue?</h3>
-For many, a wedding can be one of the most expensive events in their lives and a reflection of the couple getting married.  The wedding reception venue is one of the most important aspects of the day, arguably just as important than where the actual ceremony is held
+For many, a wedding can be one of the most expensive events in their lives and a reflection of the couple getting married.  The wedding reception venue is one of the most important aspects of the day, arguably just as important as where the actual ceremony is held.
 
 When planning the big day, couples can easily spend whole weekends driving around the country visiting wedding venues.  Seeking out that perfect place that is suitable, affordable and memorable.
 <h3>Who would benefit?</h3>
