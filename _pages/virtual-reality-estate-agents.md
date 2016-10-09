@@ -50,7 +50,7 @@ sections_1_type:
 sections_1_media:
   - image
 sections_1_image:
-  - "324"
+  - "329"
 sections_1_width:
   - ""
 sections_1_height:
