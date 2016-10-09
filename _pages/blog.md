@@ -9,4 +9,6 @@ permalink: http://www.vrpm.co.uk/blog/
 published: true
 sections:
   - "0"
+banner_media_type:
+  - parallax
 ---
