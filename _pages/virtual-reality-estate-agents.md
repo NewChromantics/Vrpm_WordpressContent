@@ -11,7 +11,7 @@ published: true
 banner_media_type:
   - parallax
 sections:
-  - "1"
+  - "2"
 sections_0_type:
   - default
 sections_0_media:
@@ -36,6 +36,33 @@ sections_0_copy:
     The more information that is presented about a property doesn’t put people off it increases the level of engagement with the listing.   By having VR tours of properties estate and letting agents would increase the amount of time that potential buyers and tenants spend with their listings.
     
     This increase in time spent looking at a listing increases the chance of a good enquiry coming through.  Rightmove and Zoopla regularly tell their clients that more information and media in property listings is a good thing.  Every single good estate agent knows that high quality photos and a floor plan are a bare minimum in a competitive market.  The more forward thinking agents are now realising that the next move forward for marketing property is VR.
+    <h2></h2>
+sections_0_three_column_content_0_copy:
+  - ""
+sections_0_three_column_content_1_copy:
+  - ""
+sections_0_three_column_content_2_copy:
+  - ""
+sections_0_three_column_content:
+  - "3"
+sections_1_type:
+  - highlight
+sections_1_media:
+  - image
+sections_1_image:
+  - "324"
+sections_1_width:
+  - ""
+sections_1_height:
+  - ""
+sections_1_video:
+  - ""
+sections_1_size:
+  - cover
+sections_1_parallax:
+  - "1"
+sections_1_copy:
+  - |
     <h2>Isn’t Virtual Reality really expensive?</h2>
     A virtual reality presentation is not that expensive to produce any more, unless you want to create an entirely bespoke presentation of a fictional property then it is only a little more expensive than traditional photos and a floor plan.
     
@@ -44,13 +71,13 @@ sections_0_copy:
     Property marketing is simply improved with virtual reality.
     
     <a class="btn" href="http://www.vrpm.co.uk/contact/">Contact us</a>
-sections_0_three_column_content_0_copy:
+sections_1_three_column_content_0_copy:
   - ""
-sections_0_three_column_content_1_copy:
+sections_1_three_column_content_1_copy:
   - ""
-sections_0_three_column_content_2_copy:
+sections_1_three_column_content_2_copy:
   - ""
-sections_0_three_column_content:
+sections_1_three_column_content:
   - "3"
 ---
 <h1>Virtual Reality</h1>
