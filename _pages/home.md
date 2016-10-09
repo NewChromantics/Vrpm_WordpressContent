@@ -354,5 +354,5 @@ sections_4_width:
 sections_4_height:
   - ""
 ---
-<h1>Virtual reality</h1>
+<h1>Virtual Reality</h1>
 <h2>Property Marketing</h2>
