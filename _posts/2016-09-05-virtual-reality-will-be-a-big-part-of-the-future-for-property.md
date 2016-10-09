@@ -6,7 +6,7 @@ post_date: 2016-09-05 22:10:55
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.vrpm.co.uk/2016/09/05/vr-will-be-a-big-part-of-the-future/
+  http://www.vrpm.co.uk/virtual-reality-will-be-a-big-part-of-the-future-for-property/
 published: true
 ---
 <h2>VR will be a big part of the future.</h2>
