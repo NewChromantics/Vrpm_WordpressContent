@@ -43,7 +43,7 @@ sections_0_copy:
     
     Property marketing is simply improved with virtual reality.
     
-    Contact us
+    <a class="btn" href="http://www.vrpm.co.uk/contact/">Contact us</a>
 sections_0_three_column_content_0_copy:
   - ""
 sections_0_three_column_content_1_copy:
