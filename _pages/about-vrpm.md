@@ -36,7 +36,7 @@ sections_1_parallax:
 sections_1_copy:
   - |
     <h2>Who are VRPM?</h2>
-    <span style="font-weight: 400;">VRPM is a collaboration between Analog Studio, a VR developer and two estate agents.  </span>
+    <span style="font-weight: 400;">VRPM is a collaboration between Analog Studio, a VR developer and two <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents</a>.  </span>
     
     &nbsp;
     
