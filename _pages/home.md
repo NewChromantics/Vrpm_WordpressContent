@@ -23,25 +23,25 @@ sections_0_copy:
     <h2>VRPM</h2>
     VRPM was established with the sole purpose of capturing and creating VR content for the property industry. The team was founded with a single vision and a mix of property, VFX, virtual reality and life experience.
     
-    VR is going to be a big part of the future for businesses such as estate agents, letting agents, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
+    VR is going to be a big part of the future for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
   - |
     <h4>A London based virtual reality agency</h4>
     <h2>VRPM</h2>
     VRPM was established with the sole purpose of capturing and creating VR content for the property industry. The team was founded with a single vision and a mix of property, VFX, virtual reality and life experience.
     
-    VR is going to be a big part of the future for businesses such as estate agents, letting agents, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
+    VR is going to be a big part of the future for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
   - |
     <h4>A London based virtual reality agency</h4>
     <h2>VRPM</h2>
     VRPM was established with the sole purpose of capturing and creating VR content for the property industry. The team was founded with a single vision and a mix of property, VFX, virtual reality and life experience.
     
-    VR is going to be a big part of the future for businesses such as estate agents, letting agents, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
+    VR is going to be a big part of the future for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
   - |
     <h4>A London based virtual reality agency</h4>
     <h2>VRPM</h2>
     VRPM was established with the sole purpose of capturing and creating VR content for the property industry. The team was founded with a single vision and a mix of property, VFX, virtual reality and life experience.
     
-    VR is going to be a big part of the future for businesses such as estate agents, letting agents, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
+    VR is going to be a big part of the future for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
 sections:
   - "5"
   - "5"
