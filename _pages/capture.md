@@ -149,7 +149,7 @@ sections_3_360:
 panorama:
   - "1"
 banner_media_type:
-  - parallax
+  - panorama
 banner_height:
   - "500"
 sections_0_width:
