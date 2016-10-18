@@ -21,6 +21,8 @@ sections_0_copy:
     VRPM create virtual reality ready models of existing spaces by converting images and data captured on site.   These 3D models can then be viewed either through VR glasses or on a laptop/phone/tablet screen.   Each space gives the user the flexibility to move around the model to get an accurate reflection of what the place is actually like.
     <h3>Who is this for?</h3>
     This way of presenting property is ideal for estate agents, lettings, holiday rentals and hotels when the property being marketed already exists.  This is the best method for busy people to view multiple spaces without having to visit each one.  We want to remove that feeling of the consumer knowing they’re not quite seeing everything when they only see photography.
+    
+    [iframe src="http://property.vrpm.co.uk/index.html?room=chalfont/Chalfont_001" width="100%" height="500"]
 sections:
   - "4"
 sections_1_type:
@@ -33,7 +35,6 @@ sections_1_size:
   - cover
 sections_1_copy:
   - |
-    <h2>[iframe src="http://property.vrpm.co.uk/index.html?room=chalfont/Chalfont_001" width="100%" height="500"]</h2>
     <h2>How?</h2>
     <h3></h3>
     <h3></h3>
