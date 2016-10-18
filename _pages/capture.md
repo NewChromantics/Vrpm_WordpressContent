@@ -26,13 +26,14 @@ sections:
 sections_1_type:
   - highlight
 sections_1_image:
-  - "237"
+  - ""
 sections_1_video:
   - ""
 sections_1_size:
   - cover
 sections_1_copy:
   - |
+    <h2>[iframe src="http://property.vrpm.co.uk/index.html?room=chalfont/Chalfont_001" width="100%" height="500"]</h2>
     <h2>How?</h2>
     <h3></h3>
     <h3></h3>
@@ -135,7 +136,7 @@ sections_0_media:
 sections_0_360:
   - "140"
 sections_1_media:
-  - image
+  - none
 sections_1_360:
   - ""
 sections_2_media:
