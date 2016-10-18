@@ -82,7 +82,7 @@ sections_3_copy:
     
     *There are additional costs involved with the purchase of VR equipment if you want to show these presentations in Virtual Reality. VRPM can advise you on the best setup for your business.
 sections_0_three_column_content_0_copy:
-  - '<a href="http://property.vrpm.co.uk/index.html?room=chalfont/Chalfont_001">http://property.vrpm.co.uk/index.html?room=chalfont/Chalfont_001</a>'
+  - ""
 sections_0_three_column_content_1_copy:
   - ""
 sections_0_three_column_content_2_copy:
