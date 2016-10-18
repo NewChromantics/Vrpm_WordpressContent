@@ -26,7 +26,7 @@ sections:
 sections_1_type:
   - highlight
 sections_1_image:
-  - ""
+  - "237"
 sections_1_video:
   - ""
 sections_1_size:
@@ -135,7 +135,7 @@ sections_0_media:
 sections_0_360:
   - "140"
 sections_1_media:
-  - none
+  - image
 sections_1_360:
   - ""
 sections_2_media:
