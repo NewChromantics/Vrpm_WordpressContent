@@ -22,6 +22,8 @@ sections_0_copy:
     <h3>Who is this for?</h3>
     This way of presenting property is ideal for estate agents, lettings, holiday rentals and hotels when the property being marketed already exists.  This is the best method for busy people to view multiple spaces without having to visit each one.  We want to remove that feeling of the consumer knowing they’re not quite seeing everything when they only see photography.
     
+    &nbsp;
+    
     [iframe src="http://property.vrpm.co.uk/index.html?room=chalfont/Chalfont_001" width="100%" height="500"]
 sections:
   - "4"
