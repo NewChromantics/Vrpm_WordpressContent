@@ -125,7 +125,7 @@ sections_2_three_column_content_1_copy:
 sections_2_three_column_content_2_copy:
   - |
     <h5>Virtual Tours</h5>
-    [iframe src="http://property.vrpm.co.uk/index.html?room=kensington/Kensington01" width="100%" height="1000"]
+    [iframe src="http://property.vrpm.co.uk/index.html?room=kensington/Kensington01" width="50%" height="1000"]
     
     &nbsp;
     
