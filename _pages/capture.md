@@ -129,8 +129,8 @@ sections_2_three_column_content_1_copy:
     <img class="alignnone size-medium wp-image-201" src="http://dev.pedroreis.net/vrpm/wp-content/uploads/2016/08/graingerfullphotoplan-300x300.jpg" alt="graingerfullphotoplan" width="300" height="300" />
 sections_2_three_column_content_2_copy:
   - |
-    <h5>Virtual Tours</h5>
-    [iframe src="http://property.vrpm.co.uk/index.html?room=kensington/Kensington01" width="50%" height="1000"]
+    <h5>Traditional Floor-plans</h5>
+    <img class="alignnone size-medium wp-image-374" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/floorplan-300x218.jpg" alt="floorplan" width="300" height="218" />
     
     &nbsp;
     
