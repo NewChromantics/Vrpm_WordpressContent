@@ -54,6 +54,8 @@ sections_2_size:
 sections_2_copy:
   - |
     <h2>What does VRPM capture produce?</h2>
+    &nbsp;
+    
     [iframe src="http://property.vrpm.co.uk/index.html?room=kensington/Kensington01" width="100%" height="500"]
     
     &nbsp;
