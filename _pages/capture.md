@@ -109,7 +109,7 @@ sections_1_three_column_content_2_copy:
   - |
     <h3> <img class="alignnone wp-image-280" src="http://dev.pedroreis.net/vrpm/wp-content/uploads/2016/08/1474760497_290-01-1.png" alt="1474760497_290-01-1" width="100" height="100" /></h3>
     <h3>3. Virtual Reality</h3>
-    The Editor produces a working 3D model from which VRPM photoplans and 3D images can be extracted.
+    The Editor produces a working 3D model from which VRPM virtual tours are made.
 sections_1_three_column_content:
   - "3"
 sections_2_three_column_content_0_copy:
@@ -124,8 +124,12 @@ sections_2_three_column_content_1_copy:
     <img class="alignnone size-medium wp-image-201" src="http://dev.pedroreis.net/vrpm/wp-content/uploads/2016/08/graingerfullphotoplan-300x300.jpg" alt="graingerfullphotoplan" width="300" height="300" />
 sections_2_three_column_content_2_copy:
   - |
-    <h5>Individual real 3D images of rooms</h5>
-    <img class="alignnone wp-image-187 size-medium" src="http://dev.pedroreis.net/vrpm/wp-content/uploads/2016/08/loftflatreception-300x300.jpg" alt="loftflatreception" width="300" height="300" />
+    <h5>Virtual Tours</h5>
+    [iframe src="http://property.vrpm.co.uk/index.html?room=kensington/Kensington01" width="100%" height="500"]
+    
+    &nbsp;
+    
+    &nbsp;
 sections_2_three_column_content:
   - "3"
 sections_3_three_column_content_0_copy:
