@@ -24,6 +24,8 @@ sections_0_copy:
     
     &nbsp;
     
+    [iframe src="http://property.vrpm.co.uk/index.html?room=chalfont/Chalfont_001" width="100%" height="500"]
+    
     &nbsp;
 sections:
   - "4"
