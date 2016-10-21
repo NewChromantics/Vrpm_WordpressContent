@@ -185,5 +185,5 @@ sections_3_height:
   - ""
 ---
 <h1>St John's Wood, NW8</h1>
-<h3><a href="http://property.vrpm.co.uk/index.html?room=benjamin/Benjamin_001">Virtual Tour</a></h3>
+<h3><a href="http://property.vrpm.co.uk/index.html?room=benjamin/Benjamin_001">Click for Virtual Tour</a></h3>
 &nbsp;
