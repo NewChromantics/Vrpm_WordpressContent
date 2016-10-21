@@ -185,5 +185,5 @@ sections_3_height:
   - ""
 ---
 <h1>Virtual Tour</h1>
-<h3><a href="http://property.vrpm.co.uk/index.html?room=benjamin/Benjamin_001">Click to see tour</a></h3>
+<h2><a href="http://property.vrpm.co.uk/index.html?room=benjamin/Benjamin_001">Click to see example tour</a></h2>
 &nbsp;
