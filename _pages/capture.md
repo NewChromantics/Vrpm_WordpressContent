@@ -184,5 +184,6 @@ sections_3_width:
 sections_3_height:
   - ""
 ---
-<h2></h2>
-[iframe src="http://property.vrpm.co.uk/index.html?room=trafalgarpoint/trafalgarpoint_000001&amp;embed" width="100%" height="500"]
+<h1>St John's Wood, NW8</h1>
+<h3><a href="http://property.vrpm.co.uk/index.html?room=benjamin/Benjamin_001">Virtual Tour</a></h3>
+&nbsp;
