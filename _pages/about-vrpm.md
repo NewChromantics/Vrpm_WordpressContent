@@ -40,8 +40,6 @@ sections_1_copy:
     
     &nbsp;
     
-    &nbsp;
-    
     https://vimeo.com/176762261
 sections:
   - "2"
