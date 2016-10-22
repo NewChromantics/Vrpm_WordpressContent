@@ -20,8 +20,12 @@ This something is now being showcased on the UK’s two leading property portals
 
 Unfortunately for us Rightmove and Zoopla don’t currently run these tours on their mobile sites, which for two of Britain’s leading property portals is slightly strange,  so we’ve put the direct link here just in case;
 
+&nbsp;
+
 [iframe src="http://property.vrpm.co.uk/index.html?room=kensington/Kensington01&amp;embed" width="100%" height="500"]
+
+&nbsp;
 
 <span style="font-weight: 400;">Now it’s just a question of getting out there to do a load more tours for estate agents and tweaking things so everything works beautifully on the massive variety of platforms both real and virtual. This in itself is a massive job.</span>
 
-<span style="font-weight: 400;">In the meantime, we’ll be looking for estate and letting agents who will let us do a few tours for free, so if you read this and are based in London or Surrey then please get in touch.  </span>
+<span style="font-weight: 400;">In the meantime, we’ll be looking for estate and letting agents who will let us do a few tours for free, so if you read this and are based in London or Surrey then please <a href="http://www.vrpm.co.uk/contact">get in touch</a>.  </span>
