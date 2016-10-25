@@ -30,15 +30,15 @@ sections_0_copy:
 sections:
   - "3"
 sections_1_type:
-  - default
+  - highlight
 sections_1_image:
   - "411"
 sections_1_video:
   - ""
 sections_1_size:
-  - ""
+  - cover
 sections_1_parallax:
-  - ""
+  - "1"
 sections_1_copy:
   - |
     <h2>What would your ideal space look like?</h2>
