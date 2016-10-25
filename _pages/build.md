@@ -68,9 +68,9 @@ banner_media_type:
 sections_0_media:
   - none
 sections_0_three_column_content_0_copy:
-  - ""
+  - '[video width="2576" height="1576" mp4="http://www.vrpm.co.uk/wp-content/uploads/2016/08/UE4Editor-2016-10-24-12-15-45-66.mp4"][/video]'
 sections_0_three_column_content_1_copy:
-  - ""
+  - '<img class="size-medium wp-image-411" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/London_House-VRPM_02-300x191.jpg" alt="virtual reality fictional london house for property marketing" width="300" height="191" />'
 sections_0_three_column_content_2_copy:
   - ""
 sections_0_three_column_content:
