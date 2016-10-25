@@ -30,15 +30,15 @@ sections_0_copy:
 sections:
   - "3"
 sections_1_type:
-  - highlight
+  - default
 sections_1_image:
-  - "411"
+  - "240"
 sections_1_video:
   - ""
 sections_1_size:
-  - cover
+  - ""
 sections_1_parallax:
-  - "1"
+  - ""
 sections_1_copy:
   - |
     <h2>What would your ideal space look like?</h2>
@@ -76,7 +76,7 @@ sections_0_three_column_content_2_copy:
 sections_0_three_column_content:
   - "3"
 sections_1_media:
-  - image
+  - "360"
 sections_1_three_column_content_0_copy:
   - ""
 sections_1_three_column_content_1_copy:
@@ -106,13 +106,13 @@ banner_height:
 sections_0_height:
   - ""
 sections_1_height:
-  - ""
+  - "500"
 sections_2_height:
   - ""
 sections_0_width:
   - ""
 sections_1_width:
-  - ""
+  - full_width
 sections_2_width:
   - ""
 video:
