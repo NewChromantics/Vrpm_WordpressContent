@@ -24,7 +24,9 @@ sections_0_copy:
     
     &nbsp;
     
-    [iframe src="http://property.vrpm.co.uk/index.html?room=trafalgarpoint/trafalgarpoint_000001&amp;embed" width="100%" height="500" scrolling="no"]
+    [iframe src="http://property.vrpm.co.uk/index.html?room=trafalgarpoint/trafalgarpoint_000001&amp;embed" width="100%" height="500" scrolling="no" allowfullscreen="true"]
+    
+    &nbsp;
     
     &nbsp;
 sections:
