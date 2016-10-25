@@ -32,9 +32,9 @@ sections:
 sections_1_type:
   - default
 sections_1_image:
-  - ""
+  - "411"
 sections_1_video:
-  - "407"
+  - ""
 sections_1_size:
   - ""
 sections_1_parallax:
@@ -76,7 +76,7 @@ sections_0_three_column_content_2_copy:
 sections_0_three_column_content:
   - "3"
 sections_1_media:
-  - video
+  - image
 sections_1_three_column_content_0_copy:
   - ""
 sections_1_three_column_content_1_copy:
