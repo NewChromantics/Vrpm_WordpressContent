@@ -32,9 +32,9 @@ sections:
 sections_1_type:
   - default
 sections_1_image:
-  - "239"
-sections_1_video:
   - ""
+sections_1_video:
+  - "407"
 sections_1_size:
   - ""
 sections_1_parallax:
@@ -64,7 +64,7 @@ sections_2_copy:
     
     Rather than just presenting VR on your website through Google Cardboard you can upload all of your tours to your app.  You or your clients will be able search and highlight a gallery of presentations, select and share favourite spaces.
 banner_media_type:
-  - video
+  - panorama
 sections_0_media:
   - none
 sections_0_three_column_content_0_copy:
@@ -76,7 +76,7 @@ sections_0_three_column_content_2_copy:
 sections_0_three_column_content:
   - "3"
 sections_1_media:
-  - "360"
+  - video
 sections_1_three_column_content_0_copy:
   - ""
 sections_1_three_column_content_1_copy:
@@ -106,13 +106,13 @@ banner_height:
 sections_0_height:
   - ""
 sections_1_height:
-  - "500"
+  - ""
 sections_2_height:
   - ""
 sections_0_width:
   - ""
 sections_1_width:
-  - full_width
+  - ""
 sections_2_width:
   - ""
 video:
