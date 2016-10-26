@@ -113,23 +113,35 @@ sections_3_image:
   - ""
 sections_3_copy:
   - |
-    <pre>[iframe src="http://property.vrpm.co.uk/index.html?room=wicklow/wicklow_000003" width="100%" height="500" scrolling="no" allowfullscreen="true"]</pre>
-    <h3>The Virtual Tour</h3>
+    <h2>The Virtual Tour
+    
+    [iframe src="http://property.vrpm.co.uk/index.html?room=wicklow/wicklow_000003" width="100%" height="500" scrolling="no" allowfullscreen="true"]</h2>
+    <h3></h3>
+    &nbsp;
     <h4>Walk through your own 3D virtual 'dollshouse'</h4>
     In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built within our app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
   - |
-    <pre>[iframe src="http://property.vrpm.co.uk/index.html?room=wicklow/wicklow_000003" width="100%" height="500" scrolling="no" allowfullscreen="true"]</pre>
-    <h3>The Virtual Tour</h3>
+    <h2>The Virtual Tour
+    
+    [iframe src="http://property.vrpm.co.uk/index.html?room=wicklow/wicklow_000003" width="100%" height="500" scrolling="no" allowfullscreen="true"]</h2>
+    <h3></h3>
+    &nbsp;
     <h4>Walk through your own 3D virtual 'dollshouse'</h4>
     In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built within our app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
   - |
-    <pre>[iframe src="http://property.vrpm.co.uk/index.html?room=wicklow/wicklow_000003" width="100%" height="500" scrolling="no" allowfullscreen="true"]</pre>
-    <h3>The Virtual Tour</h3>
+    <h2>The Virtual Tour
+    
+    [iframe src="http://property.vrpm.co.uk/index.html?room=wicklow/wicklow_000003" width="100%" height="500" scrolling="no" allowfullscreen="true"]</h2>
+    <h3></h3>
+    &nbsp;
     <h4>Walk through your own 3D virtual 'dollshouse'</h4>
     In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built within our app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
   - |
-    <pre>[iframe src="http://property.vrpm.co.uk/index.html?room=wicklow/wicklow_000003" width="100%" height="500" scrolling="no" allowfullscreen="true"]</pre>
-    <h3>The Virtual Tour</h3>
+    <h2>The Virtual Tour
+    
+    [iframe src="http://property.vrpm.co.uk/index.html?room=wicklow/wicklow_000003" width="100%" height="500" scrolling="no" allowfullscreen="true"]</h2>
+    <h3></h3>
+    &nbsp;
     <h4>Walk through your own 3D virtual 'dollshouse'</h4>
     In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built within our app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
 address:
