@@ -26,8 +26,6 @@ sections_0_copy:
     
     The ability to accurately present exactly what a building will look like both inside and out before it has been built is a powerful tool.  With accurate 3D visualisation of a building from the outside and then a virtual reality tour inside, anyone buying something off-plan can make a more informed decision.
     
-    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0X61YmwCBbU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-    
     <a class="btn" href="http://www.vrpm.co.uk/contact">Contact Us</a>
 sections:
   - "3"
