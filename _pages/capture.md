@@ -24,7 +24,11 @@ sections_0_copy:
     
     &nbsp;
     
-    [iframe src="http://property.vrpm.co.uk/embed/trafalgarpoint/trafalgarpoint_000001" width="100%" height="500" scrolling="no" allowfullscreen="true"]
+    [iframe src="http://property.vrpm.co.uk/index.html?room=kensington/Kensington01&amp;embed" width="100%" height="500" scrolling="no"]
+    
+    &nbsp;
+    
+    &nbsp;
     
     &nbsp;
     
@@ -59,9 +63,9 @@ sections_2_copy:
     <h3></h3>
     &nbsp;
     <h3>Virtual Tours</h3>
-    [iframe src="http://property.vrpm.co.uk/index.html?room=kensington/Kensington01&amp;embed" width="100%" height="500" scrolling="no"]
-    
     &nbsp;
+    
+    <span style="font-weight: 400;">[iframe src="http://property.vrpm.co.uk/embed/trafalgarpoint/trafalgarpoint_000001" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
     
     &nbsp;
     
