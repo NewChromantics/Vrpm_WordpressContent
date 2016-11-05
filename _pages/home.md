@@ -124,7 +124,7 @@ sections_3_copy:
     
     &nbsp;
     <h4>Walk through your own 3D virtual 'dollshouse'</h4>
-    In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built within our app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
+    In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built using a specific app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
   - |
     <h2>The Virtual Tour</h2>
     &nbsp;
@@ -137,7 +137,7 @@ sections_3_copy:
     
     &nbsp;
     <h4>Walk through your own 3D virtual 'dollshouse'</h4>
-    In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built within our app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
+    In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built using a specific app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
   - |
     <h2>The Virtual Tour</h2>
     &nbsp;
@@ -150,7 +150,7 @@ sections_3_copy:
     
     &nbsp;
     <h4>Walk through your own 3D virtual 'dollshouse'</h4>
-    In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built within our app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
+    In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built using a specific app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
   - |
     <h2>The Virtual Tour</h2>
     &nbsp;
@@ -163,7 +163,7 @@ sections_3_copy:
     
     &nbsp;
     <h4>Walk through your own 3D virtual 'dollshouse'</h4>
-    In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built within our app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
+    In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built using a specific app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
 address:
   - 'a:3:{s:7:"address";s:39:"1 Rosoman Place, London, United Kingdom";s:3:"lat";s:17:"51.52600589999999";s:3:"lng";s:20:"-0.10791359999996075";}'
   - 'a:3:{s:7:"address";s:39:"1 Rosoman Place, London, United Kingdom";s:3:"lat";s:17:"51.52600589999999";s:3:"lng";s:20:"-0.10791359999996075";}'
