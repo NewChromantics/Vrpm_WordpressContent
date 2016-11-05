@@ -80,27 +80,27 @@ sections_2_type:
   - default
   - default
 sections_2_image:
-  - "83"
-  - "83"
-  - "83"
-  - "83"
+  - "469"
+  - "469"
+  - "469"
+  - "469"
 sections_2_copy:
   - |
     <h3>Capture</h3>
     <h4>Market property with virtual reality</h4>
-    Our bespoke software allows us to both capture and create high quality, cost effective 3D virtual walk throughs of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
+    We use the latest capture and scan technology to produce cost effective 3D virtual walk throughs of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
     <h3>Capture</h3>
     <h4>Market property with virtual reality</h4>
-    Our bespoke software allows us to both capture and create high quality, cost effective 3D virtual walk throughs of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
+    We use the latest capture and scan technology to produce cost effective 3D virtual walk throughs of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
     <h3>Capture</h3>
     <h4>Market property with virtual reality</h4>
-    Our bespoke software allows us to both capture and create high quality, cost effective 3D virtual walk throughs of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
+    We use the latest capture and scan technology to produce cost effective 3D virtual walk throughs of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
     <h3>Capture</h3>
     <h4>Market property with virtual reality</h4>
-    Our bespoke software allows us to both capture and create high quality, cost effective 3D virtual walk throughs of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
+    We use the latest capture and scan technology to produce cost effective 3D virtual walk throughs of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
 sections_3_type:
   - default
   - default
