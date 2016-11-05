@@ -116,7 +116,7 @@ sections_3_copy:
     <h2>The Virtual Tour</h2>
     &nbsp;
     
-    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
+    <span style="font-weight: 400;">[iframe width="853" height="480" src="https://my.matterport.com/show/?m=HkunmoH8UAo&amp;brand=0" frameborder="0" allowfullscreen&gt;&lt;/iframe]</span>
     <h3></h3>
     &nbsp;
     
@@ -129,7 +129,7 @@ sections_3_copy:
     <h2>The Virtual Tour</h2>
     &nbsp;
     
-    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
+    <span style="font-weight: 400;">[iframe width="853" height="480" src="https://my.matterport.com/show/?m=HkunmoH8UAo&amp;brand=0" frameborder="0" allowfullscreen&gt;&lt;/iframe]</span>
     <h3></h3>
     &nbsp;
     
@@ -142,7 +142,7 @@ sections_3_copy:
     <h2>The Virtual Tour</h2>
     &nbsp;
     
-    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
+    <span style="font-weight: 400;">[iframe width="853" height="480" src="https://my.matterport.com/show/?m=HkunmoH8UAo&amp;brand=0" frameborder="0" allowfullscreen&gt;&lt;/iframe]</span>
     <h3></h3>
     &nbsp;
     
@@ -155,7 +155,7 @@ sections_3_copy:
     <h2>The Virtual Tour</h2>
     &nbsp;
     
-    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
+    <span style="font-weight: 400;">[iframe width="853" height="480" src="https://my.matterport.com/show/?m=HkunmoH8UAo&amp;brand=0" frameborder="0" allowfullscreen&gt;&lt;/iframe]</span>
     <h3></h3>
     &nbsp;
     
