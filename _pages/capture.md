@@ -23,8 +23,6 @@ sections_0_copy:
     This way of presenting property is ideal for estate agents, lettings, holiday rentals and hotels when the property being marketed already exists.  This is the best method for busy people to view multiple spaces without having to visit each one.  We want to remove that feeling of the consumer knowing they’re not quite seeing everything when they only see photography.
     
     &nbsp;
-    
-    &nbsp;
 sections:
   - "3"
 sections_1_type:
