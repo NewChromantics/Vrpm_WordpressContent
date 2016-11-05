@@ -350,7 +350,7 @@ sections_3_media:
 sections_3_parallax:
   - ""
 sections_3_three_column_content_0_copy:
-  - ""
+  - '[embed]https://my.matterport.com/show/?m=HkunmoH8UAo[/embed]'
 sections_3_three_column_content_1_copy:
   - ""
 sections_3_three_column_content_2_copy:
