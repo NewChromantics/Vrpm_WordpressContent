@@ -86,7 +86,7 @@ sections_1_three_column_content_1_copy:
   - |
     <h3> <img class="alignnone wp-image-279" src="http://dev.pedroreis.net/vrpm/wp-content/uploads/2016/08/1474762512_home-1.png" alt="1474762512_home-1" width="100" height="100" /></h3>
     <h3>2. Build</h3>
-    These images are uploaded into a specific app.  Data is entered about the captured space in order to create an accurate 3D scale model.
+    These images are uploaded into an editing app.  Data is entered about the captured space in order to create an accurate 3D scale model.
 sections_1_three_column_content_2_copy:
   - |
     <h3> <img class="alignnone wp-image-280" src="http://dev.pedroreis.net/vrpm/wp-content/uploads/2016/08/1474760497_290-01-1.png" alt="1474760497_290-01-1" width="100" height="100" /></h3>
