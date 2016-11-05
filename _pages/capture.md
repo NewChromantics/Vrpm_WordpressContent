@@ -143,6 +143,7 @@ sections_2_width:
 sections_2_height:
   - ""
 ---
-<h1>VR Capture</h1>
+<h1>Capture Space</h1>
+Experience Virtual Reality
 <h2></h2>
 &nbsp;
