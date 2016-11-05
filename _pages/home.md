@@ -294,9 +294,9 @@ sections_3_image_0_size:
 sections_4_type:
   - default
 sections_4_image:
-  - "93"
-sections_4_video:
   - ""
+sections_4_video:
+  - "461"
 sections_4_size:
   - ""
 sections_4_copy:
@@ -358,7 +358,7 @@ sections_3_three_column_content_2_copy:
 sections_3_three_column_content:
   - "3"
 sections_4_media:
-  - image
+  - video
 sections_4_parallax:
   - ""
 sections_4_three_column_content_0_copy:
