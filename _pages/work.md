@@ -28,7 +28,7 @@ sections_0_parallax:
 sections_0_copy:
   - ""
 sections_0_three_column_content_0_copy:
-  - '[embed]http://my.matterport.com/show/?m=HkunmoH8UAo[/embed]'
+  - '<span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>'
 sections_0_three_column_content_1_copy:
   - '<span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>'
 sections_0_three_column_content_2_copy:
