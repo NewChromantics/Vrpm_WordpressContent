@@ -28,11 +28,11 @@ sections_0_parallax:
 sections_0_copy:
   - ""
 sections_0_three_column_content_0_copy:
-  - '<img class="alignnone" src="https://my.matterport.com/api/v1/player/models/HkunmoH8UAo/thumb" width="1920" height="1080" />'
+  - '<img class="alignnone size-medium" src="https://my.matterport.com/api/v1/player/models/HkunmoH8UAo/thumb" alt="" width="1920" height="1080" />'
 sections_0_three_column_content_1_copy:
-  - '<img class="alignnone size-medium" src="https://my.matterport.com/api/v1/player/models/HkunmoH8UAo/thumb" alt="" width="1920" height="1080" />'
+  - ""
 sections_0_three_column_content_2_copy:
-  - '<img class="alignnone size-medium" src="https://my.matterport.com/api/v1/player/models/HkunmoH8UAo/thumb" alt="" width="1920" height="1080" />'
+  - ""
 sections_0_three_column_content:
   - "3"
 sections_1_type:
