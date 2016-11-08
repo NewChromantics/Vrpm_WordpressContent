@@ -43,6 +43,10 @@ sections_0_copy:
     &nbsp;
     
     <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=AiAwZqXSP8H" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
+    
+    &nbsp;
+    
+    &nbsp;
 sections:
   - "3"
 sections_1_type:
