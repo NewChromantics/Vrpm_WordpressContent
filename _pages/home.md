@@ -296,7 +296,7 @@ sections_4_type:
 sections_4_image:
   - ""
 sections_4_video:
-  - ""
+  - "461"
 sections_4_size:
   - ""
 sections_4_copy:
@@ -304,8 +304,6 @@ sections_4_copy:
     <h3>Build</h3>
     <h4>Bespoke design and build</h4>
     As well as capturing physical spaces, we can design and build fully immersive VR spaces.  Allowing property developers and New Homes agents to market unbuilt properties and remain ahead of the curve.
-    
-    <span style="font-weight: 400;">[iframe src="http://www.vrpm.co.uk/wp-content/uploads/2016/10/VRPM_Edit_002.mp4" width="100%" height="500"]</span>
     
     <a class="btn" href="http://www.vrpm.co.uk/build">More</a>
     <h4></h4>
@@ -360,7 +358,7 @@ sections_3_three_column_content_2_copy:
 sections_3_three_column_content:
   - "3"
 sections_4_media:
-  - none
+  - video
 sections_4_parallax:
   - ""
 sections_4_three_column_content_0_copy:
