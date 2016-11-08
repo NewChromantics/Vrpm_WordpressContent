@@ -22,7 +22,13 @@ sections_0_copy:
     <h3>Who is this for?</h3>
     This way of presenting property is ideal for estate agents, lettings, holiday rentals and hotels when the property being marketed already exists.  This is the best method for busy people to view multiple spaces without having to visit each one.  We want to remove that feeling of the consumer knowing they’re not quite seeing everything when they only see photography.
     <h2></h2>
+    &nbsp;
+    
     [iframe src="https://my.matterport.com/show/?m=DNtKE6knM76" width="100%" height="500" scrolling="no" allowfullscreen="true"]
+    
+    &nbsp;
+    
+    &nbsp;
     
     &nbsp;
     
@@ -30,6 +36,10 @@ sections_0_copy:
     
     <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=k8waZzKWdq8" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
     <h2></h2>
+    &nbsp;
+    
+    &nbsp;
+    
     &nbsp;
     
     <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=AiAwZqXSP8H" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
