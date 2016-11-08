@@ -68,11 +68,11 @@ sections_1_parallax:
 sections_2_parallax:
   - ""
 sections_0_three_column_content_0_copy:
-  - ""
+  - '<span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=DNtKE6knM76" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>'
 sections_0_three_column_content_1_copy:
-  - ""
+  - '<span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=k8waZzKWdq8" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>'
 sections_0_three_column_content_2_copy:
-  - ""
+  - '<span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=AiAwZqXSP8H" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>'
 sections_0_three_column_content:
   - "3"
 sections_1_three_column_content_0_copy:
