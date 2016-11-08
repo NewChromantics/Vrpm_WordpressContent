@@ -34,15 +34,13 @@ sections_0_copy:
     
     &nbsp;
     
-    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=k8waZzKWdq8" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
+    &nbsp;
     <h2></h2>
     &nbsp;
     
     &nbsp;
     
     &nbsp;
-    
-    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=AiAwZqXSP8H" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
     
     &nbsp;
     
