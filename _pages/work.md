@@ -38,4 +38,4 @@ sections_0_three_column_content_2_copy:
 sections_0_three_column_content:
   - "3"
 ---
-Our work here
+<h1 style="text-align: center;">Our Work</h1>
