@@ -9,7 +9,7 @@ permalink: >
   http://www.vrpm.co.uk/virtual-reality-show-homes/
 published: true
 ---
-3D virtual reality presentations are absolutely perfect for show homes.  The time for turnaround is usually less than 24 hours, the price is extremely cost effective and the units are usually dressed beautifully.
+3D virtual reality presentations are absolutely perfect for show homes.  The time for turnaround is often less than 24 hours, the price is extremely cost effective and the units are usually dressed beautifully.
 
 Rather than just bang on about the merits here are two examples VRPM have done for <a href="http://www.fraser.uk.com">Fraser and Co</a>.
 
