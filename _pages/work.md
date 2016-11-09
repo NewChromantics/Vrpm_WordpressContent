@@ -28,9 +28,7 @@ sections_0_size:
 sections_0_parallax:
   - ""
 sections_0_copy:
-  - |
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-    <div id="sa_slider_shortcode">[slide-anything id='544']</div>
+  - '<pre class="shs_shortinfo">[shs_slider_show]</pre>'
 sections_0_three_column_content_0_copy:
   - ""
 sections_0_three_column_content_1_copy:
