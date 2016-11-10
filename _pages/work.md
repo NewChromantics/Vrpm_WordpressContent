@@ -28,11 +28,7 @@ sections_0_size:
 sections_0_parallax:
   - ""
 sections_0_copy:
-  - |
-    <style>
-    iframe {height: 100% !important;}<br />
-    .iframe {padding-bottom: 70% !important;}<br />
-    </style>
+  - ""
 sections_0_three_column_content_0_copy:
   - '<iframe class="iframe-class" src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>'
 sections_0_three_column_content_1_copy:
@@ -69,3 +65,5 @@ sections_1_three_column_content:
   - "3"
 ---
 <h1 style="text-align: center;">Our Work</h1>
+<p><style>
+iframe {height: 100% !important;}<br />.iframe {padding-bottom: 70% !important;}<br /></style></p>
