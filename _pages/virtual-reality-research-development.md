@@ -57,9 +57,9 @@ sections_0_three_column_content:
 sections_1_type:
   - highlight
 sections_1_media:
-  - none
+  - image
 sections_1_image:
-  - ""
+  - "618"
 sections_1_width:
   - ""
 sections_1_height:
