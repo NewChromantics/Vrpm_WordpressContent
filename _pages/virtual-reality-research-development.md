@@ -11,7 +11,7 @@ published: true
 banner_media_type:
   - parallax
 sections:
-  - "1"
+  - "2"
 sections_0_type:
   - default
 sections_0_media:
@@ -53,6 +53,32 @@ sections_0_three_column_content_2_copy:
     <iframe class="iframe-class" src="http://property.vrpm.co.uk/index.html?room=wolf_000001/wolf_000001" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
     <h4></h4>
 sections_0_three_column_content:
+  - "3"
+sections_1_type:
+  - highlight
+sections_1_media:
+  - image
+sections_1_image:
+  - "607"
+sections_1_width:
+  - ""
+sections_1_height:
+  - ""
+sections_1_video:
+  - ""
+sections_1_size:
+  - cover
+sections_1_parallax:
+  - "1"
+sections_1_copy:
+  - '<h1>Augmented Reality</h1>'
+sections_1_three_column_content_0_copy:
+  - ""
+sections_1_three_column_content_1_copy:
+  - ""
+sections_1_three_column_content_2_copy:
+  - ""
+sections_1_three_column_content:
   - "3"
 ---
 <h1>The Future</h1>
