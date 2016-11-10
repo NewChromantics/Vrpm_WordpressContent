@@ -30,7 +30,11 @@ sections_0_parallax:
 sections_0_copy:
   - ""
 sections_0_three_column_content_0_copy:
-  - '<iframe class="iframe-class" src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>'
+  - |
+    <h2>Clerkenwell, EC1</h2>
+    Residential
+    
+    <iframe class="iframe-class" src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 sections_0_three_column_content_1_copy:
   - '<iframe class="iframe-class" src="https://my.matterport.com/show/?m=k8waZzKWdq8" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>'
 sections_0_three_column_content_2_copy:
@@ -65,6 +69,6 @@ sections_1_three_column_content:
   - "3"
 ---
 <h1 style="text-align: center;">Our Work</h1>
-<p><style>
-.iframe {padding-bottom: 0 !important; height: 100% !important;}
-</style></p>
+<style>
+.iframe {padding-bottom: 0 !important; height: 100% !important;}<br />
+</style>
