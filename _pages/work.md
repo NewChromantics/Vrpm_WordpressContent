@@ -69,12 +69,16 @@ sections_1_copy:
   - ""
 sections_1_three_column_content_0_copy:
   - |
-    <h1>Bayswater W2</h1>
+    <h2>Bayswater W2</h2>
     Residential
     
     <iframe class="iframe-class" src="https://my.matterport.com/show/?m=DNtKE6knM76" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 sections_1_three_column_content_1_copy:
-  - ""
+  - |
+    <h2>Elephant &amp; Castle SE17</h2>
+    Residential
+    
+    <iframe class="iframe-class" src="https://my.matterport.com/show/?m=CvqbWGdk89b" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 sections_1_three_column_content_2_copy:
   - ""
 sections_1_three_column_content:
