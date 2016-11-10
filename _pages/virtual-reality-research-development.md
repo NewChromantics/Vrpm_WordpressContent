@@ -15,9 +15,9 @@ sections:
 sections_0_type:
   - default
 sections_0_media:
-  - none
+  - image
 sections_0_image:
-  - ""
+  - "83"
 sections_0_width:
   - ""
 sections_0_height:
