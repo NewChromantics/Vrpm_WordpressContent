@@ -42,23 +42,16 @@ sections_0_three_column_content_0_copy:
   - |
     <h3>Kings Cross Capture</h3>
     <iframe class="iframe-class" src="http://property.vrpm.co.uk/index.html?room=wicklow/wicklow_000003" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
-    <h4></h4>
-    <h4></h4>
-    <h4>Theta and Pop-Up Geo</h4>
 sections_0_three_column_content_1_copy:
   - |
     <h3>Clerkenwell Capture</h3>
     <iframe class="iframe-class" src="http://property.vrpm.co.uk/index.html?room=stjohns_000001/stjohns_000001" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
     <h4></h4>
-    <h4></h4>
-    <h4>Theta and Pop-Up Geo</h4>
 sections_0_three_column_content_2_copy:
   - |
     <h3>360 CGI Model Test</h3>
     <iframe class="iframe-class" src="http://property.vrpm.co.uk/index.html?room=wolf_000001/wolf_000001" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
     <h4></h4>
-    <h4></h4>
-    <h4>360 CGI put through VRPM Editor</h4>
 sections_0_three_column_content:
   - "3"
 ---
