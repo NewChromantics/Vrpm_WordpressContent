@@ -30,11 +30,11 @@ sections_0_parallax:
 sections_0_copy:
   - ""
 sections_0_three_column_content_0_copy:
-  - '<div><iframe class="iframe-class" src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>'
+  - '<div class="iframe-wrapper"><iframe class="iframe-class" src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>'
 sections_0_three_column_content_1_copy:
-  - '<div><iframe class="iframe-class" src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>'
+  - '<div class="iframe-wrapper"><iframe class="iframe-class" src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>'
 sections_0_three_column_content_2_copy:
-  - '<div><iframe class="iframe-class" src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>'
+  - '<div class="iframe-wrapper"><iframe class="iframe-class" src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>'
 sections_0_three_column_content:
   - "3"
 sections_1_type:
@@ -68,4 +68,5 @@ sections_1_three_column_content:
 <p><style>
 iframe {height: 100% !important;}
 .iframe {padding-bottom: 0 !important; height: 100% !important;}
+.iframe-wrapper {height: 200px;}
 </style></p>
