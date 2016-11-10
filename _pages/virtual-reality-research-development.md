@@ -55,11 +55,11 @@ sections_0_three_column_content_2_copy:
 sections_0_three_column_content:
   - "3"
 sections_1_type:
-  - default
+  - highlight
 sections_1_media:
   - image
 sections_1_image:
-  - "607"
+  - "614"
 sections_1_width:
   - ""
 sections_1_height:
@@ -67,11 +67,15 @@ sections_1_height:
 sections_1_video:
   - ""
 sections_1_size:
-  - ""
+  - cover
 sections_1_parallax:
-  - ""
+  - "0"
 sections_1_copy:
-  - '<h1>Augmented Reality</h1>'
+  - |
+    <h1>Augmented Reality</h1>
+    Arguably augmented reality will be bigger than virtual reality, not in all industries but the two technologies offer very different experiences.  Anybody who has been lucky enough to try out the Microsoft Hololens will have come away impressed.  HMDs in one form or another are coming.
+    
+    &nbsp;
 sections_1_three_column_content_0_copy:
   - ""
 sections_1_three_column_content_1_copy:
@@ -81,4 +85,4 @@ sections_1_three_column_content_2_copy:
 sections_1_three_column_content:
   - "3"
 ---
-<h1>The Future</h1>
+<h1>The Future?</h1>
