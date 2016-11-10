@@ -55,7 +55,7 @@ sections_0_three_column_content_2_copy:
 sections_0_three_column_content:
   - "3"
 sections_1_type:
-  - highlight
+  - default
 sections_1_media:
   - image
 sections_1_image:
@@ -67,9 +67,9 @@ sections_1_height:
 sections_1_video:
   - ""
 sections_1_size:
-  - cover
+  - ""
 sections_1_parallax:
-  - "1"
+  - ""
 sections_1_copy:
   - |
     <h1>Augmented Reality</h1>
