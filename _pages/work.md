@@ -66,6 +66,5 @@ sections_1_three_column_content:
 ---
 <h1 style="text-align: center;">Our Work</h1>
 <p><style>
-iframe {height: 100% !important;}
 .iframe {padding-bottom: 0 !important; height: 100% !important;}
 </style></p>
