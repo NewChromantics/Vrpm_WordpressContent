@@ -81,10 +81,10 @@ sections_1_three_column_content_1_copy:
     <iframe class="iframe-class" src="https://my.matterport.com/show/?m=CvqbWGdk89b" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 sections_1_three_column_content_2_copy:
   - |
-    <h2>Fictional, SW00</h2>
+    <h2>Kings Cross N1</h2>
     Residential
     
-    <iframe class="iframe-class" src="http://www.vrpm.co.uk/wp-content/uploads/2016/10/VRPM_Edit_002.mp4" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+    <iframe class="iframe-class" src="http://property.vrpm.co.uk/index.html?room=wicklow/wicklow_000003" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 sections_1_three_column_content:
   - "3"
 sections_2_type:
