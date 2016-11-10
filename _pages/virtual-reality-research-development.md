@@ -57,9 +57,9 @@ sections_0_three_column_content:
 sections_1_type:
   - highlight
 sections_1_media:
-  - image
+  - none
 sections_1_image:
-  - "614"
+  - ""
 sections_1_width:
   - ""
 sections_1_height:
@@ -69,7 +69,7 @@ sections_1_video:
 sections_1_size:
   - cover
 sections_1_parallax:
-  - "0"
+  - "1"
 sections_1_copy:
   - |
     <h1>Augmented Reality</h1>
