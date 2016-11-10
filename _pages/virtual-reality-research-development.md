@@ -11,6 +11,49 @@ published: true
 banner_media_type:
   - parallax
 sections:
-  - "0"
+  - "1"
+sections_0_type:
+  - default
+sections_0_media:
+  - none
+sections_0_image:
+  - ""
+sections_0_width:
+  - ""
+sections_0_height:
+  - ""
+sections_0_video:
+  - ""
+sections_0_size:
+  - ""
+sections_0_parallax:
+  - ""
+sections_0_copy:
+  - |
+    <h1>The VRPM Editor</h1>
+    <h2>Virtual Reality for Everyone</h2>
+    VRPM believe that everyone will want proper 3D virtual reality presentations within the next five years.   The existing enterprise hardware and cloud based platforms are ideal for professionals in the current space and we expect the quality to continue to improve.  Not everyone can afford expensive hardware and processing fees though.
+    
+    The Editor is an ongoing development of a platform that supports a number of different cameras to produce VR presentations.   Using a combination of scanning and photogrammetry techniques we are able to quickly produce 3D models from 360 spherical images.
+    
+    With new personal scanning technology coming to smartphones over the next few years and a surge in popularity of social VR will bring a wealth of opportunities.
+    <h2>VRPM Editor work</h2>
+sections_0_three_column_content_0_copy:
+  - |
+    <h3>Kings Cross Capture</h3>
+    <iframe class="iframe-class" src="http://property.vrpm.co.uk/index.html?room=wicklow/wicklow_000003" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+    <h4>Theta and Pop-Up Geo</h4>
+sections_0_three_column_content_1_copy:
+  - |
+    <h3>Clerkenwell Capture</h3>
+    <iframe class="iframe-class" src="http://property.vrpm.co.uk/index.html?room=stjohns_000001/stjohns_000001" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+    <h4>Theta and Pop-Up Geo</h4>
+sections_0_three_column_content_2_copy:
+  - |
+    <h3>360 CGI Model Test</h3>
+    <iframe class="iframe-class" src="http://property.vrpm.co.uk/index.html?room=wolf_000001/wolf_000001" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+    <h4>360 CGI put through VRPM Editor</h4>
+sections_0_three_column_content:
+  - "3"
 ---
 <h1>The Future</h1>
