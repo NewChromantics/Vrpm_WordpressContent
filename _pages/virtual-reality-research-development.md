@@ -76,6 +76,8 @@ sections_1_copy:
     Arguably augmented reality will be bigger than virtual reality, not in all industries but the two technologies offer very different experiences.  Anybody who has been lucky enough to try out the Microsoft Hololens will have come away impressed.  HMDs in one form or another are coming.
     
     Google Tango is the the other side of augmented reality via mobile devices rather than HMD (head mounted display).   Personal hand held scanners with the capability of room scale scanning and measuring.  Early uses for interior design companies are already out there and the ability to place digital objects in real environments is the essence of AR.
+    
+    <a href="http://www.vrpm.co.uk/contact">Contact us</a>
 sections_1_three_column_content_0_copy:
   - ""
 sections_1_three_column_content_1_copy:
