@@ -125,6 +125,6 @@ sections_2_three_column_content_2_copy:
 sections_2_three_column_content:
   - "3"
 ---
-<h1 style="text-align: center;">Our Work</h1>
+<h1 style="text-align: center;">Portfolio</h1>
 <style>
 .iframe {padding-bottom: 0 !important; height: 100% !important;}<br /></style>
