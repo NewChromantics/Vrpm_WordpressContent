@@ -11,7 +11,7 @@ published: true
 banner_media_type:
   - parallax
 sections:
-  - "3"
+  - "2"
 sections_0_type:
   - default
 sections_0_media:
@@ -84,31 +84,11 @@ sections_1_three_column_content_2_copy:
   - ""
 sections_1_three_column_content:
   - "3"
-sections_2_type:
-  - default
-sections_2_media:
-  - image
-sections_2_image:
-  - "623"
-sections_2_width:
-  - ""
-sections_2_height:
-  - ""
-sections_2_video:
-  - ""
-sections_2_size:
-  - ""
-sections_2_parallax:
-  - ""
-sections_2_copy:
-  - ""
 sections_2_three_column_content_0_copy:
   - ""
 sections_2_three_column_content_1_copy:
   - ""
 sections_2_three_column_content_2_copy:
   - ""
-sections_2_three_column_content:
-  - "3"
 ---
 <h1>The Future?</h1>
