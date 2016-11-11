@@ -11,7 +11,7 @@ published: true
 banner_media_type:
   - parallax
 sections:
-  - "2"
+  - "3"
 sections_0_type:
   - default
 sections_0_media:
@@ -75,7 +75,7 @@ sections_1_copy:
     <h1>Augmented Reality</h1>
     Arguably augmented reality will be bigger than virtual reality, not in all industries but the two technologies offer very different experiences.  Anybody who has been lucky enough to try out the Microsoft Hololens will have come away impressed.  HMDs in one form or another are coming.
     
-    &nbsp;
+    Google Tango is the the other side of augmented reality via mobile devices rather than HMD (head mounted display).   Personal hand held scanners with the capability of room scale scanning and measuring.  Early uses for interior design companies are already out there and the ability to place digital objects in real environments is the essence of AR.
 sections_1_three_column_content_0_copy:
   - ""
 sections_1_three_column_content_1_copy:
@@ -83,6 +83,32 @@ sections_1_three_column_content_1_copy:
 sections_1_three_column_content_2_copy:
   - ""
 sections_1_three_column_content:
+  - "3"
+sections_2_type:
+  - default
+sections_2_media:
+  - image
+sections_2_image:
+  - "623"
+sections_2_width:
+  - ""
+sections_2_height:
+  - ""
+sections_2_video:
+  - ""
+sections_2_size:
+  - ""
+sections_2_parallax:
+  - ""
+sections_2_copy:
+  - ""
+sections_2_three_column_content_0_copy:
+  - ""
+sections_2_three_column_content_1_copy:
+  - ""
+sections_2_three_column_content_2_copy:
+  - ""
+sections_2_three_column_content:
   - "3"
 ---
 <h1>The Future?</h1>
