@@ -9,7 +9,7 @@ permalink: >
   http://www.vrpm.co.uk/work-on-the-hololens/
 published: true
 ---
-<h2>Creating a VRPM app with the Hololens</h2>
+<h2>Creating a VRPM app for the Hololens</h2>
 For the uninitiated the Microsoft Hololens is an augmented reality headset, Microsoft describe it as;
 
 'Microsoft HoloLens is the first self-contained, holographic computer, enabling you to engage with your digital content and interact with holograms in the world around you.'
