@@ -20,7 +20,11 @@ However, what's really clever about the Hololens is it's ability to scan the env
 
 So, we did and it's pretty damn quick as you can see.
 
+&nbsp;
+
 [iframe width="560" height="315" src="https://www.youtube.com/embed/DV8mSsnswio" frameborder="0" allowfullscreen&gt;&lt;/iframe]
+
+&nbsp;
 
 We're now going to release this as an app for use with the Hololens so you can quickly pull out a 3d model of where you are scanning and keep it, clean it, add texture to it....  Naturally this is just the first stage of the work we're doing and developing and we'll keep adding and updating this as augmented/mixed and virtual reality all start to occupy mainstream thinking.
 
