@@ -18,7 +18,7 @@ published: true
 
 <span style="font-weight: 400;">Any small business with a premises they want to show off should seriously be considering organising a VR tour if they want to engage better with potential new customers.  A virtual reality capture offers a proper insight into a place, check out this capture of a local business..</span>
 
-<span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=9UUrF2erx7q" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
+<span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=9UUrF2erx7q" width="100%" height="250" scrolling="no" allowfullscreen="true"]</span>
 
 &nbsp;
 
