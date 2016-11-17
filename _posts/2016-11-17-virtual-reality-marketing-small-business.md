@@ -2,7 +2,7 @@
 ID: 659
 post_title: >
   3D Virtual Reality Marketing for Small
-  Businesses
+  Business
 author: Admin dev@vrpm.co
 post_date: 2016-11-17 18:54:54
 post_excerpt: ""
