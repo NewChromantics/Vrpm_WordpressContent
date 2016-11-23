@@ -30,17 +30,11 @@ sections_0_parallax:
 sections_0_copy:
   - ""
 sections_0_three_column_content_0_copy:
-  - |
-    <h2></h2>
-    <iframe class="iframe-class" src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+  - '<iframe class="iframe-class" src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>'
 sections_0_three_column_content_1_copy:
-  - |
-    <h2></h2>
-    <iframe class="iframe-class" src="https://my.matterport.com/show/?m=k8waZzKWdq8" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+  - '<iframe class="iframe-class" src="https://my.matterport.com/show/?m=k8waZzKWdq8" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>'
 sections_0_three_column_content_2_copy:
-  - |
-    <h2></h2>
-    <iframe class="iframe-class" src="https://my.matterport.com/show/?m=AiAwZqXSP8H" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+  - '<iframe class="iframe-class" src="https://my.matterport.com/show/?m=AiAwZqXSP8H" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>'
 sections_0_three_column_content:
   - "3"
 sections_1_type:
@@ -63,25 +57,12 @@ sections_1_copy:
   - ""
 sections_1_three_column_content_0_copy:
   - |
-    <h2>London W2</h2>
-    Residential
-    
+    <h2></h2>
     <iframe class="iframe-class" src="https://my.matterport.com/show/?m=DNtKE6knM76" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
-    <h3>Matterport</h3>
 sections_1_three_column_content_1_copy:
-  - |
-    <h2>London SE17</h2>
-    Residential
-    
-    <iframe class="iframe-class" src="https://my.matterport.com/show/?m=CvqbWGdk89b" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
-    <h3>Matterport</h3>
+  - '<iframe class="iframe-class" src="https://my.matterport.com/show/?m=CvqbWGdk89b" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>'
 sections_1_three_column_content_2_copy:
-  - |
-    <h2>The Cotswolds</h2>
-    Holiday Lettings
-    
-    <iframe class="iframe-class" src="https://my.matterport.com/show/?m=ZEocpcmPJYu" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
-    <h3>Matteport</h3>
+  - '<iframe class="iframe-class" src="https://my.matterport.com/show/?m=ZEocpcmPJYu" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>'
 sections_1_three_column_content:
   - "3"
 sections_2_type:
@@ -104,25 +85,14 @@ sections_2_copy:
   - ""
 sections_2_three_column_content_0_copy:
   - |
-    <h2>London SE1</h2>
-    Residential
-    
+    <h2></h2>
     <iframe class="iframe-class" src="https://my.matterport.com/show/?m=JLqALGd5Mxp" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
-    <h3>Matterport</h3>
 sections_2_three_column_content_1_copy:
-  - |
-    <h2>Bar Hair Ink</h2>
-    Commercial
-    
-    <iframe class="iframe-class" src="https://my.matterport.com/show/?m=9UUrF2erx7q" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
-    <h3>Matterport</h3>
+  - '<iframe class="iframe-class" src="https://my.matterport.com/show/?m=9UUrF2erx7q" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>'
 sections_2_three_column_content_2_copy:
   - |
-    <h2>London SE1</h2>
-    Residential
-    
+    <h2></h2>
     <iframe class="iframe-class" src="https://my.matterport.com/show/?m=9mJCQJzPGcH" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
-    <h3>Matterport</h3>
 sections_2_three_column_content:
   - "3"
 ---
