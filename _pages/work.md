@@ -86,11 +86,11 @@ sections_1_three_column_content_1_copy:
     <h3>Matterport</h3>
 sections_1_three_column_content_2_copy:
   - |
-    <h2>Kings Cross N1</h2>
-    Residential
+    <h2>The Cotswolds UK</h2>
+    Holiday Lettings
     
-    <iframe class="iframe-class" src="http://property.vrpm.co.uk/index.html?room=wicklow/wicklow_000003" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
-    <h3>VRPM Editor</h3>
+    <iframe class="iframe-class" src="https://my.matterport.com/show/?m=ZEocpcmPJYu" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+    <h3>Matteport</h3>
 sections_1_three_column_content:
   - "3"
 sections_2_type:
