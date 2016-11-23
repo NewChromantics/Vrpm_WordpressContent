@@ -86,7 +86,7 @@ sections_1_three_column_content_1_copy:
     <h3>Matterport</h3>
 sections_1_three_column_content_2_copy:
   - |
-    <h2>The Cotswolds UK</h2>
+    <h2>The Cotswolds</h2>
     Holiday Lettings
     
     <iframe class="iframe-class" src="https://my.matterport.com/show/?m=ZEocpcmPJYu" width="100%" height="200px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
