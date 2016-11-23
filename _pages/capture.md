@@ -170,7 +170,7 @@ sections_4_three_column_content_1_copy:
 sections_4_three_column_content_2_copy:
   - ""
 ---
-<h1>3D Space Cature</h1>
+<h1>3D Space Capture</h1>
 Experience fully immersive virtual spaces
 <h2></h2>
 &nbsp;
