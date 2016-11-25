@@ -42,8 +42,12 @@ portfolio_content_0_column_one:
 portfolio_content_0_column_two:
   - content two
 portfolio_content_0_column_3:
-  - content three
+  - column 3
 portfolio_content:
-  - "1"
+  - 'a:1:{i:0;s:7:"content";}'
+portfolio_content_0_column_1:
+  - Column 1
+portfolio_content_0_column_2:
+  - column 2
 ---
 <h1>Page content here</h1>
