@@ -86,21 +86,21 @@ sections_2_image:
   - "469"
 sections_2_copy:
   - |
-    <h3>Capture</h3>
+    <h3>3D Space Capture</h3>
     <h4>Market property with virtual reality</h4>
-    We use the latest capture and scan technology to produce cost effective 3D virtual walk throughs of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
+    We use the latest capture and scan technology to produce cost effective VR ready 3D tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
-    <h3>Capture</h3>
+    <h3>3D Space Capture</h3>
     <h4>Market property with virtual reality</h4>
-    We use the latest capture and scan technology to produce cost effective 3D virtual walk throughs of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
+    We use the latest capture and scan technology to produce cost effective VR ready 3D tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
-    <h3>Capture</h3>
+    <h3>3D Space Capture</h3>
     <h4>Market property with virtual reality</h4>
-    We use the latest capture and scan technology to produce cost effective 3D virtual walk throughs of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
+    We use the latest capture and scan technology to produce cost effective VR ready 3D tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
-    <h3>Capture</h3>
+    <h3>3D Space Capture</h3>
     <h4>Market property with virtual reality</h4>
-    We use the latest capture and scan technology to produce cost effective 3D virtual walk throughs of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
+    We use the latest capture and scan technology to produce cost effective VR ready 3D tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
 sections_3_type:
   - default
   - default
@@ -113,7 +113,7 @@ sections_3_image:
   - ""
 sections_3_copy:
   - |
-    <h2>The Virtual Tour</h2>
+    <h2>Immersive Virtual Tours</h2>
     &nbsp;
     
     <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
@@ -126,7 +126,7 @@ sections_3_copy:
     <h4>Walk through your own 3D virtual 'dollshouse'</h4>
     In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built using a specific app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
   - |
-    <h2>The Virtual Tour</h2>
+    <h2>Immersive Virtual Tours</h2>
     &nbsp;
     
     <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
@@ -139,7 +139,7 @@ sections_3_copy:
     <h4>Walk through your own 3D virtual 'dollshouse'</h4>
     In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built using a specific app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
   - |
-    <h2>The Virtual Tour</h2>
+    <h2>Immersive Virtual Tours</h2>
     &nbsp;
     
     <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
@@ -152,7 +152,7 @@ sections_3_copy:
     <h4>Walk through your own 3D virtual 'dollshouse'</h4>
     In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built using a specific app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
   - |
-    <h2>The Virtual Tour</h2>
+    <h2>Immersive Virtual Tours</h2>
     &nbsp;
     
     <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
@@ -303,7 +303,7 @@ sections_4_copy:
   - |
     <h3>Build</h3>
     <h4>Bespoke design and build</h4>
-    As well as capturing physical spaces, we can design and build fully immersive VR spaces.  Allowing property developers and New Homes agents to market unbuilt properties and remain ahead of the curve.
+    As well as capturing physical spaces, we can design and build fully immersive room scale VR spaces.  Allowing property developers and New Homes agents to market unbuilt properties and remain ahead of the curve.
     
     <a class="btn" href="http://www.vrpm.co.uk/build">More</a>
     <h4></h4>
