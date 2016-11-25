@@ -39,4 +39,3 @@ sections_0_three_column_content:
   - "3"
 ---
 <h1>Page content here</h1>
-lorem ipsum dolor sit met
