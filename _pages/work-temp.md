@@ -37,5 +37,13 @@ sections_0_three_column_content_2_copy:
   - ""
 sections_0_three_column_content:
   - "3"
+portfolio_content_0_column_one:
+  - content one
+portfolio_content_0_column_two:
+  - content two
+portfolio_content_0_column_3:
+  - content three
+portfolio_content:
+  - "1"
 ---
 <h1>Page content here</h1>
