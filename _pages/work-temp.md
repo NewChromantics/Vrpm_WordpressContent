@@ -10,7 +10,7 @@ published: true
 banner_media_type:
   - parallax
 sections:
-  - "1"
+  - Main body content here
 sections_0_type:
   - default
 sections_0_media:
