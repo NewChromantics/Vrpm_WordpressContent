@@ -56,6 +56,12 @@ portfolio_content_0_column_2:
 2_column_portfolio_content:
   - 'a:1:{i:0;s:3:"row";}'
 3_col_portfolio_content:
-  - 'a:0:{}'
+  - 'a:1:{i:0;s:3:"row";}'
+3_col_portfolio_content_0_column_1:
+  - 3 col
+3_col_portfolio_content_0_column_2:
+  - 3 col
+3_col_portfolio_content_0_column_3:
+  - 3 col
 ---
 <h1>Page content here</h1>
