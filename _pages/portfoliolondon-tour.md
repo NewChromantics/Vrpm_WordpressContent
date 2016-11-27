@@ -5,7 +5,8 @@ author: Admin dev@vrpm.co
 post_date: 2016-11-27 19:04:31
 post_excerpt: ""
 layout: page
-permalink: http://www.vrpm.co.uk/london-tour/
+permalink: >
+  http://www.vrpm.co.uk/work-temp/portfoliolondon-tour/
 published: true
 banner_media_type:
   - parallax
