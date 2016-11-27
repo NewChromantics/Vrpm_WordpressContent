@@ -49,5 +49,13 @@ portfolio_content_0_column_1:
   - Column 1
 portfolio_content_0_column_2:
   - column 2
+2_column_portfolio_content_0_column_1:
+  - '<p style="text-align: center;">Column number 1</p>'
+2_column_portfolio_content_0_column_2:
+  - '<p style="text-align: center;">Column number 2</p>'
+2_column_portfolio_content:
+  - 'a:1:{i:0;s:3:"row";}'
+3_col_portfolio_content:
+  - 'a:0:{}'
 ---
 <h1>Page content here</h1>
