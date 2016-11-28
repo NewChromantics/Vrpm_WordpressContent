@@ -12,4 +12,4 @@ banner_media_type:
 sections:
   - "0"
 ---
-<iframe width="853" height="480" src="https://my.matterport.com/show/?m=JLqALGd5Mxp" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://my.matterport.com/show/?m=JLqALGd5Mxp" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
