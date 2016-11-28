@@ -13,4 +13,4 @@ banner_media_type:
 sections:
   - "0"
 ---
-<iframe width="853" height="480" src="https://my.matterport.com/show/?m=9mJCQJzPGcH" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://my.matterport.com/show/?m=9mJCQJzPGcH" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
