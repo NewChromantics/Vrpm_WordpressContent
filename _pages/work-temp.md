@@ -1,6 +1,6 @@
 ---
 ID: 688
-post_title: 'Work &#8211; Temp'
+post_title: Work
 author: Admin dev@vrpm.co
 post_date: 2016-11-25 15:33:51
 post_excerpt: ""
