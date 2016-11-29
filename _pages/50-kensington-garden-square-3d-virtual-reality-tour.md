@@ -1,12 +1,12 @@
 ---
 ID: 728
-post_title: '50 Kensington Garden Square &#8211; 3D virtual reality tour'
+post_title: '50 Kensington Gardens Square &#8211; 3D virtual reality tour'
 author: Admin dev@vrpm.co
 post_date: 2016-11-28 20:54:13
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.vrpm.co.uk/work/50-kensington-garden-square/
+  http://www.vrpm.co.uk/work/50-kensington-garden-square-3d-virtual-reality-tour/
 published: true
 banner_media_type:
   - parallax
