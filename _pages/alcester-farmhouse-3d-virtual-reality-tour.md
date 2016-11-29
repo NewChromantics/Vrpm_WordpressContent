@@ -1,12 +1,12 @@
 ---
 ID: 707
-post_title: Alcester Farmhouse
+post_title: 'Alcester Farmhouse &#8211; 3D virtual reality tour'
 author: Admin dev@vrpm.co
 post_date: 2016-11-28 10:09:05
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.vrpm.co.uk/work/alcester-farmhouse-2/
+  http://www.vrpm.co.uk/work/alcester-farmhouse-3d-virtual-reality-tour/
 published: true
 banner_media_type:
   - parallax
