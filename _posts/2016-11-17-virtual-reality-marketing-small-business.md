@@ -16,7 +16,7 @@ published: true
 
 <span style="font-weight: 400;">Google and Samsung have pioneered low cost virtual reality headsets that most people with a smartphone can use from about £15.  The technology is everywhere right now and loads more content is being produced, which means millions more pairs of VR glasses and headsets will be out there. </span>
 
-<span style="font-weight: 400;">Any small business with a premises they want to show off should seriously be considering organising a VR tour if they want to engage better with potential new customers.  A virtual reality capture offers a proper insight into a place, check out this capture of a local business..</span>
+<span style="font-weight: 400;">Any small business with a premises they want to show off should seriously be considering organising a <a href="http://www.vrpm.co.uk/capture">VR tour</a> if they want to engage better with potential new customers.  A virtual reality capture offers a proper insight into a place, check out this capture of a local business..</span>
 
 <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=9UUrF2erx7q" width="100%" scrolling="no" allowfullscreen="true"]</span>
 
