@@ -5,7 +5,7 @@ author: Admin dev@vrpm.co
 post_date: 2016-11-28 21:15:02
 post_excerpt: ""
 layout: page
-permalink: http://www.vrpm.co.uk/bermondsey/
+permalink: http://www.vrpm.co.uk/work/bermondsey/
 published: true
 banner_media_type:
   - parallax
