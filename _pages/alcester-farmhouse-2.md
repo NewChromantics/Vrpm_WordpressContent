@@ -6,7 +6,7 @@ post_date: 2016-11-28 10:09:05
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.vrpm.co.uk/alcester-farmhouse-2/
+  http://www.vrpm.co.uk/work/alcester-farmhouse-2/
 published: true
 banner_media_type:
   - parallax
