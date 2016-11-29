@@ -1,11 +1,12 @@
 ---
 ID: 725
-post_title: Winch House
+post_title: 'Winch House &#8211; 3D virtual reality tour'
 author: Admin dev@vrpm.co
 post_date: 2016-11-28 20:49:56
 post_excerpt: ""
 layout: page
-permalink: http://www.vrpm.co.uk/work/winch-house/
+permalink: >
+  http://www.vrpm.co.uk/work/winch-house-3d-virtual-reality-tour/
 published: true
 banner_media_type:
   - parallax
