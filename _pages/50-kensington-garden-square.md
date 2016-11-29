@@ -6,7 +6,7 @@ post_date: 2016-11-28 20:54:13
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.vrpm.co.uk/50-kensington-garden-square/
+  http://www.vrpm.co.uk/work/50-kensington-garden-square/
 published: true
 banner_media_type:
   - parallax
