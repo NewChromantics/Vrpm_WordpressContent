@@ -6,7 +6,7 @@ post_date: 2016-11-28 21:10:11
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.vrpm.co.uk/st-john-street-clerkenwell/
+  http://www.vrpm.co.uk/work/st-john-street-clerkenwell/
 published: true
 banner_media_type:
   - parallax
