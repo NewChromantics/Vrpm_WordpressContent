@@ -1,12 +1,12 @@
 ---
 ID: 713
-post_title: One the Elephant
+post_title: 'One the Elephant &#8211; 3D virtual reality tour'
 author: Admin dev@vrpm.co
 post_date: 2016-11-28 19:46:37
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.vrpm.co.uk/work/one-the-elephant/
+  http://www.vrpm.co.uk/work/one-the-elephant-3d-virtual-reality-tour/
 published: true
 banner_media_type:
   - parallax
