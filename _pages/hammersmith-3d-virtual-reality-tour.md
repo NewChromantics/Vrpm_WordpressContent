@@ -1,11 +1,12 @@
 ---
 ID: 731
-post_title: Hammersmith
+post_title: Hammersmith -3D virtual reality tour
 author: Admin dev@vrpm.co
 post_date: 2016-11-28 21:04:02
 post_excerpt: ""
 layout: page
-permalink: http://www.vrpm.co.uk/work/hammersmith/
+permalink: >
+  http://www.vrpm.co.uk/work/hammersmith-3d-virtual-reality-tour/
 published: true
 banner_media_type:
   - parallax
