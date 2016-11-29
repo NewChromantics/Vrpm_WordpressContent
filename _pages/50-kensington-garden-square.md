@@ -1,6 +1,6 @@
 ---
 ID: 728
-post_title: 50 Kensington Garden Square
+post_title: '50 Kensington Garden Square &#8211; 3D virtual reality tour'
 author: Admin dev@vrpm.co
 post_date: 2016-11-28 20:54:13
 post_excerpt: ""
