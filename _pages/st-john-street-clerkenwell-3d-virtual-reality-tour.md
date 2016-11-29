@@ -1,12 +1,12 @@
 ---
 ID: 734
-post_title: St John Street, Clerkenwell
+post_title: 'St John Street, Clerkenwell &#8211; 3D virtual reality tour'
 author: Admin dev@vrpm.co
 post_date: 2016-11-28 21:10:11
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.vrpm.co.uk/work/st-john-street-clerkenwell/
+  http://www.vrpm.co.uk/work/st-john-street-clerkenwell-3d-virtual-reality-tour/
 published: true
 banner_media_type:
   - parallax
