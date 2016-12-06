@@ -68,19 +68,19 @@ sections_1_image:
 sections_1_copy:
   - |
     <h2>See property in VR</h2>
-    <h4>We capture and build spaces and turn them into virtual reality ready 3D models</h4>
+    <h4>We capture and build spaces then turn them into virtual reality ready 3D models</h4>
     Our studio can create presentations for use with any of the major VR systems including; HTC Vive, Oculus, Gear VR and Sony Playstation VR.
   - |
     <h2>See property in VR</h2>
-    <h4>We capture and build spaces and turn them into virtual reality ready 3D models</h4>
+    <h4>We capture and build spaces then turn them into virtual reality ready 3D models</h4>
     Our studio can create presentations for use with any of the major VR systems including; HTC Vive, Oculus, Gear VR and Sony Playstation VR.
   - |
     <h2>See property in VR</h2>
-    <h4>We capture and build spaces and turn them into virtual reality ready 3D models</h4>
+    <h4>We capture and build spaces then turn them into virtual reality ready 3D models</h4>
     Our studio can create presentations for use with any of the major VR systems including; HTC Vive, Oculus, Gear VR and Sony Playstation VR.
   - |
     <h2>See property in VR</h2>
-    <h4>We capture and build spaces and turn them into virtual reality ready 3D models</h4>
+    <h4>We capture and build spaces then turn them into virtual reality ready 3D models</h4>
     Our studio can create presentations for use with any of the major VR systems including; HTC Vive, Oculus, Gear VR and Sony Playstation VR.
 sections_2_type:
   - default
@@ -131,8 +131,8 @@ sections_3_copy:
     &nbsp;
     
     &nbsp;
-    <h4>Walk through your own 3D virtual 'dollshouse'</h4>
-    In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built using a specific app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
+    <h4>Walk through your own 3D 'dollshouse'</h4>
+    A 'dollshouse' version and floor plans of each property is created using the latest scanning and data capture technology. This is the ideal way for users to see an overview of the property.
   - |
     <h2>Immersive Virtual Tours</h2>
     &nbsp;
@@ -144,8 +144,8 @@ sections_3_copy:
     &nbsp;
     
     &nbsp;
-    <h4>Walk through your own 3D virtual 'dollshouse'</h4>
-    In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built using a specific app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
+    <h4>Walk through your own 3D 'dollshouse'</h4>
+    A 'dollshouse' version and floor plans of each property is created using the latest scanning and data capture technology. This is the ideal way for users to see an overview of the property.
   - |
     <h2>Immersive Virtual Tours</h2>
     &nbsp;
@@ -157,8 +157,8 @@ sections_3_copy:
     &nbsp;
     
     &nbsp;
-    <h4>Walk through your own 3D virtual 'dollshouse'</h4>
-    In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built using a specific app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
+    <h4>Walk through your own 3D 'dollshouse'</h4>
+    A 'dollshouse' version and floor plans of each property is created using the latest scanning and data capture technology. This is the ideal way for users to see an overview of the property.
   - |
     <h2>Immersive Virtual Tours</h2>
     &nbsp;
@@ -170,8 +170,8 @@ sections_3_copy:
     &nbsp;
     
     &nbsp;
-    <h4>Walk through your own 3D virtual 'dollshouse'</h4>
-    In order to create a VR ready 3D model a 'dollshouse' version and floor plans of each captured property are built using a specific app. This becomes a perfect way to view a virtual version of a property without the virtual reality glasses.
+    <h4>Walk through your own 3D 'dollshouse'</h4>
+    A 'dollshouse' version and floor plans of each property is created using the latest scanning and data capture technology. This is the ideal way for users to see an overview of the property.
 address:
   - 'a:3:{s:7:"address";s:39:"1 Rosoman Place, London, United Kingdom";s:3:"lat";s:17:"51.52600589999999";s:3:"lng";s:20:"-0.10791359999996075";}'
   - 'a:3:{s:7:"address";s:39:"1 Rosoman Place, London, United Kingdom";s:3:"lat";s:17:"51.52600589999999";s:3:"lng";s:20:"-0.10791359999996075";}'
@@ -311,7 +311,7 @@ sections_4_copy:
   - |
     <h3>Build</h3>
     <h4>Bespoke design and build</h4>
-    As well as capturing physical spaces, we can design and build fully immersive room scale VR spaces.  Allowing property developers and New Homes agents to market unbuilt properties and remain ahead of the curve.
+    As well as capturing physical spaces, we can design and build fully immersive room scale VR spaces. This allows property developers and New Homes agents to market unbuilt properties and remain ahead of the curve.
     
     <a class="btn" href="http://www.vrpm.co.uk/build">More</a>
     <h4></h4>
