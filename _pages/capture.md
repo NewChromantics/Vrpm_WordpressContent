@@ -148,7 +148,7 @@ sections_3_360:
 panorama:
   - "1"
 banner_media_type:
-  - parallax
+  - video
 banner_height:
   - "500"
 sections_0_width:
@@ -169,6 +169,8 @@ sections_4_three_column_content_1_copy:
   - ""
 sections_4_three_column_content_2_copy:
   - ""
+video:
+  - "788"
 ---
 <h1>3D Space Capture</h1>
 Experience fully immersive virtual spaces
