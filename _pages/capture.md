@@ -30,11 +30,11 @@ sections:
 sections_1_type:
   - highlight
 sections_1_image:
-  - ""
+  - "237"
 sections_1_video:
   - ""
 sections_1_size:
-  - contain
+  - cover
 sections_1_copy:
   - |
     <h2> How?</h2>
@@ -68,7 +68,7 @@ sections_2_paralax:
 sections_0_parallax:
   - ""
 sections_1_parallax:
-  - ""
+  - "0"
 sections_2_parallax:
   - ""
 sections_0_three_column_content_0_copy:
@@ -124,7 +124,7 @@ sections_0_media:
 sections_0_360:
   - "140"
 sections_1_media:
-  - none
+  - image
 sections_1_360:
   - ""
 sections_2_media:
