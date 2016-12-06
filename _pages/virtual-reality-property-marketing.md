@@ -124,7 +124,7 @@ sections_3_copy:
     <h2>Immersive Virtual Tours</h2>
     &nbsp;
     
-    <img class="alignnone size-large wp-image-861" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/princes-gate-court-1024x576.jpg" alt="princes-gate-court" width="100%" height="100%" />
+    <a href="http://www.vrpm.co.uk/work/princes-gate-court-3d-virtual-reality-tour/" rel="http://www.vrpm.co.uk/work/princes-gate-court-3d-virtual-reality-tour/"><img class="alignnone wp-image-861 size-large" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/princes-gate-court-1024x576.jpg" alt="princes-gate-court" width="1024" height="576" /></a>
     <pre></pre>
     &nbsp;
     
@@ -135,7 +135,7 @@ sections_3_copy:
     <h2>Immersive Virtual Tours</h2>
     &nbsp;
     
-    <img class="alignnone size-large wp-image-861" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/princes-gate-court-1024x576.jpg" alt="princes-gate-court" width="100%" height="100%" />
+    <a href="http://www.vrpm.co.uk/work/princes-gate-court-3d-virtual-reality-tour/" rel="http://www.vrpm.co.uk/work/princes-gate-court-3d-virtual-reality-tour/"><img class="alignnone wp-image-861 size-large" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/princes-gate-court-1024x576.jpg" alt="princes-gate-court" width="1024" height="576" /></a>
     <pre></pre>
     &nbsp;
     
@@ -146,7 +146,7 @@ sections_3_copy:
     <h2>Immersive Virtual Tours</h2>
     &nbsp;
     
-    <img class="alignnone size-large wp-image-861" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/princes-gate-court-1024x576.jpg" alt="princes-gate-court" width="100%" height="100%" />
+    <a href="http://www.vrpm.co.uk/work/princes-gate-court-3d-virtual-reality-tour/" rel="http://www.vrpm.co.uk/work/princes-gate-court-3d-virtual-reality-tour/"><img class="alignnone wp-image-861 size-large" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/princes-gate-court-1024x576.jpg" alt="princes-gate-court" width="1024" height="576" /></a>
     <pre></pre>
     &nbsp;
     
@@ -157,7 +157,7 @@ sections_3_copy:
     <h2>Immersive Virtual Tours</h2>
     &nbsp;
     
-    <img class="alignnone size-large wp-image-861" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/princes-gate-court-1024x576.jpg" alt="princes-gate-court" width="100%" height="100%" />
+    <a href="http://www.vrpm.co.uk/work/princes-gate-court-3d-virtual-reality-tour/" rel="http://www.vrpm.co.uk/work/princes-gate-court-3d-virtual-reality-tour/"><img class="alignnone wp-image-861 size-large" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/princes-gate-court-1024x576.jpg" alt="princes-gate-court" width="1024" height="576" /></a>
     <pre></pre>
     &nbsp;
     
