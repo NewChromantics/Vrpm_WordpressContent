@@ -23,22 +23,16 @@ sections_0_copy:
     This way of presenting property is ideal for estate agents, lettings, holiday rentals and hotels when the property being marketed already exists.  This is the best method for busy people to view multiple spaces without having to visit each one.
     
     &nbsp;
-    
-    <a href="http://www.vrpm.co.uk/work/50-kensington-garden-square-3d-virtual-reality-tour/"><img class="aligncenter wp-image-810 size-full" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/Bayswater.jpg" alt="bayswater" width="853" height="480" /></a>
-    
-    &nbsp;
-    
-    &nbsp;
 sections:
   - "3"
 sections_1_type:
   - highlight
 sections_1_image:
-  - "237"
+  - "810"
 sections_1_video:
   - ""
 sections_1_size:
-  - cover
+  - contain
 sections_1_copy:
   - |
     <h2> How?</h2>
@@ -72,7 +66,7 @@ sections_2_paralax:
 sections_0_parallax:
   - ""
 sections_1_parallax:
-  - "0"
+  - ""
 sections_2_parallax:
   - ""
 sections_0_three_column_content_0_copy:
