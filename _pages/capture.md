@@ -22,7 +22,7 @@ sections_0_copy:
     <h3>Who is this for?</h3>
     This way of presenting property is ideal for estate agents, lettings, holiday rentals and hotels when the property being marketed already exists.  This is the best method for busy people to view multiple spaces without having to visit each one.
     
-    <img class="alignnone size-full wp-image-821" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/Bayswater-1.jpg" alt="bayswater virtual reality capture" width="700" height="400" />
+    <a href="http://www.vrpm.co.uk/work/50-kensington-garden-square-3d-virtual-reality-tour/"><img class="alignnone size-full wp-image-821" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/Bayswater-1.jpg" alt="bayswater virtual reality capture" width="700" height="400" /></a>
 sections:
   - "3"
 sections_1_type:
