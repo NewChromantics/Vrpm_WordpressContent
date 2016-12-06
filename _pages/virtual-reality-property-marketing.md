@@ -122,10 +122,8 @@ sections_3_image:
 sections_3_copy:
   - |
     <h2>Immersive Virtual Tours</h2>
-    &nbsp;
-    <h3> &lt;iframe width="853" height="480" src="https://my.matterport.com/show/?m=sH4biqrPqoo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</h3>
-    &nbsp;
-    
+    &lt;iframe width="853" height="480" src="https://my.matterport.com/show/?m=sH4biqrPqoo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+    <pre></pre>
     &nbsp;
     
     &nbsp;
@@ -133,10 +131,8 @@ sections_3_copy:
     A 'dollshouse' version and floor plans of each property is created using the latest scanning and data capture technology. This is the ideal way for users to see an overview of the property.
   - |
     <h2>Immersive Virtual Tours</h2>
-    &nbsp;
-    <h3> &lt;iframe width="853" height="480" src="https://my.matterport.com/show/?m=sH4biqrPqoo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</h3>
-    &nbsp;
-    
+    &lt;iframe width="853" height="480" src="https://my.matterport.com/show/?m=sH4biqrPqoo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+    <pre></pre>
     &nbsp;
     
     &nbsp;
@@ -144,10 +140,8 @@ sections_3_copy:
     A 'dollshouse' version and floor plans of each property is created using the latest scanning and data capture technology. This is the ideal way for users to see an overview of the property.
   - |
     <h2>Immersive Virtual Tours</h2>
-    &nbsp;
-    <h3> &lt;iframe width="853" height="480" src="https://my.matterport.com/show/?m=sH4biqrPqoo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</h3>
-    &nbsp;
-    
+    &lt;iframe width="853" height="480" src="https://my.matterport.com/show/?m=sH4biqrPqoo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+    <pre></pre>
     &nbsp;
     
     &nbsp;
@@ -155,10 +149,8 @@ sections_3_copy:
     A 'dollshouse' version and floor plans of each property is created using the latest scanning and data capture technology. This is the ideal way for users to see an overview of the property.
   - |
     <h2>Immersive Virtual Tours</h2>
-    &nbsp;
-    <h3> &lt;iframe width="853" height="480" src="https://my.matterport.com/show/?m=sH4biqrPqoo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</h3>
-    &nbsp;
-    
+    &lt;iframe width="853" height="480" src="https://my.matterport.com/show/?m=sH4biqrPqoo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+    <pre></pre>
     &nbsp;
     
     &nbsp;
