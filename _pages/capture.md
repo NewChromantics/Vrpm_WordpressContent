@@ -23,8 +23,6 @@ sections_0_copy:
     This way of presenting property is ideal for estate agents, lettings, holiday rentals and hotels when the property being marketed already exists.  This is the best method for busy people to view multiple spaces without having to visit each one.
     
     &nbsp;
-    <h2> New Homes</h2>
-    &nbsp;
     
     [iframe src="https://my.matterport.com/show/?m=DNtKE6knM76" width="100%" height="500" scrolling="no" allowfullscreen="true"]
     
