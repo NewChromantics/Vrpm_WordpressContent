@@ -122,24 +122,32 @@ sections_3_image:
 sections_3_copy:
   - |
     <h2>Immersive Virtual Tours</h2>
+    &nbsp;
+    
     <a href="http://www.vrpm.co.uk/work/princes-gate-court-3d-virtual-reality-tour/" rel="http://www.vrpm.co.uk/work/princes-gate-court-3d-virtual-reality-tour/"><img class="alignnone wp-image-861 size-large" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/princes-gate-court-1024x576.jpg" alt="princes-gate-court" width="100%" height="100%" /></a>
     <pre></pre>
     <h4>Walk through your own 3D 'dollshouse'</h4>
     A 'dollshouse' version and floor plans of each property is created using the latest scanning and data capture technology. This is the ideal way for users to see an overview of the property.
   - |
     <h2>Immersive Virtual Tours</h2>
+    &nbsp;
+    
     <a href="http://www.vrpm.co.uk/work/princes-gate-court-3d-virtual-reality-tour/" rel="http://www.vrpm.co.uk/work/princes-gate-court-3d-virtual-reality-tour/"><img class="alignnone wp-image-861 size-large" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/princes-gate-court-1024x576.jpg" alt="princes-gate-court" width="100%" height="100%" /></a>
     <pre></pre>
     <h4>Walk through your own 3D 'dollshouse'</h4>
     A 'dollshouse' version and floor plans of each property is created using the latest scanning and data capture technology. This is the ideal way for users to see an overview of the property.
   - |
     <h2>Immersive Virtual Tours</h2>
+    &nbsp;
+    
     <a href="http://www.vrpm.co.uk/work/princes-gate-court-3d-virtual-reality-tour/" rel="http://www.vrpm.co.uk/work/princes-gate-court-3d-virtual-reality-tour/"><img class="alignnone wp-image-861 size-large" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/princes-gate-court-1024x576.jpg" alt="princes-gate-court" width="100%" height="100%" /></a>
     <pre></pre>
     <h4>Walk through your own 3D 'dollshouse'</h4>
     A 'dollshouse' version and floor plans of each property is created using the latest scanning and data capture technology. This is the ideal way for users to see an overview of the property.
   - |
     <h2>Immersive Virtual Tours</h2>
+    &nbsp;
+    
     <a href="http://www.vrpm.co.uk/work/princes-gate-court-3d-virtual-reality-tour/" rel="http://www.vrpm.co.uk/work/princes-gate-court-3d-virtual-reality-tour/"><img class="alignnone wp-image-861 size-large" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/princes-gate-court-1024x576.jpg" alt="princes-gate-court" width="100%" height="100%" /></a>
     <pre></pre>
     <h4>Walk through your own 3D 'dollshouse'</h4>
