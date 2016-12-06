@@ -122,7 +122,9 @@ sections_3_image:
 sections_3_copy:
   - |
     <h2>Immersive Virtual Tours</h2>
-    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=sH4biqrPqoo&amp;brand=0" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
+    &nbsp;
+    
+    <img class="alignnone size-large wp-image-861" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/princes-gate-court-1024x576.jpg" alt="princes-gate-court" width="1024" height="576" />
     <pre></pre>
     &nbsp;
     
@@ -131,7 +133,9 @@ sections_3_copy:
     A 'dollshouse' version and floor plans of each property is created using the latest scanning and data capture technology. This is the ideal way for users to see an overview of the property.
   - |
     <h2>Immersive Virtual Tours</h2>
-    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=sH4biqrPqoo&amp;brand=0" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
+    &nbsp;
+    
+    <img class="alignnone size-large wp-image-861" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/princes-gate-court-1024x576.jpg" alt="princes-gate-court" width="1024" height="576" />
     <pre></pre>
     &nbsp;
     
@@ -140,7 +144,9 @@ sections_3_copy:
     A 'dollshouse' version and floor plans of each property is created using the latest scanning and data capture technology. This is the ideal way for users to see an overview of the property.
   - |
     <h2>Immersive Virtual Tours</h2>
-    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=sH4biqrPqoo&amp;brand=0" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
+    &nbsp;
+    
+    <img class="alignnone size-large wp-image-861" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/princes-gate-court-1024x576.jpg" alt="princes-gate-court" width="1024" height="576" />
     <pre></pre>
     &nbsp;
     
@@ -149,7 +155,9 @@ sections_3_copy:
     A 'dollshouse' version and floor plans of each property is created using the latest scanning and data capture technology. This is the ideal way for users to see an overview of the property.
   - |
     <h2>Immersive Virtual Tours</h2>
-    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=sH4biqrPqoo&amp;brand=0" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
+    &nbsp;
+    
+    <img class="alignnone size-large wp-image-861" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/princes-gate-court-1024x576.jpg" alt="princes-gate-court" width="1024" height="576" />
     <pre></pre>
     &nbsp;
     
