@@ -56,9 +56,6 @@ sections_2_copy:
     <div>For more information please contact VRPM</div>
     <div></div>
     <div></div>
-    <div></div>
-    &nbsp;
-    
     &nbsp;
     
     <a class="btn" href="#">Contact Us</a>
