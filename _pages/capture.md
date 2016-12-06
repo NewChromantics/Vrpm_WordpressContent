@@ -25,8 +25,6 @@ sections_0_copy:
     &nbsp;
     
     <img class="alignnone size-full wp-image-827" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/Bayswater-1-1.jpg" alt="bayswater-1" width="700" height="400" />
-    
-    &nbsp;
 sections:
   - "3"
 sections_1_type:
