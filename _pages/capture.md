@@ -25,8 +25,6 @@ sections_0_copy:
     &nbsp;
     
     [iframe src="https://my.matterport.com/show/?m=DNtKE6knM76" width="100%" height="500" scrolling="no" allowfullscreen="true"]
-    
-    &nbsp;
 sections:
   - "3"
 sections_1_type:
@@ -126,7 +124,7 @@ sections_0_media:
 sections_0_360:
   - "140"
 sections_1_media:
-  - image
+  - none
 sections_1_360:
   - ""
 sections_2_media:
