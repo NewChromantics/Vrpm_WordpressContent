@@ -17,7 +17,7 @@ sections_0_size:
   - ""
 sections_0_copy:
   - |
-    <h2>What is 3D Space Capture?</h2>
+    <h2>What are 3D property tours?</h2>
     VRPM create virtual reality ready models of existing spaces by using images and data captured on site.   These 3D models can then be viewed either through VR headsets or on a laptop/phone/tablet screen.   Each captured space gives the user the flexibility to move around the property to get an accurate reflection of what the place is actually like.
     <h3>Who is this for?</h3>
     This way of presenting property is ideal for estate agents, lettings, holiday rentals and hotels when the property being marketed already exists.  This is the best method for busy people to view multiple spaces without having to visit each one.
