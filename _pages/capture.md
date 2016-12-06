@@ -24,7 +24,7 @@ sections_0_copy:
     
     &nbsp;
     
-    <a href="http://www.vrpm.co.uk/work/50-kensington-garden-square-3d-virtual-reality-tour/"><img class="alignnone size-full wp-image-827" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/Bayswater-1-1.jpg" alt="bayswater-1" width="700" height="400" /></a>
+    <a href="http://www.vrpm.co.uk/work/50-kensington-garden-square-3d-virtual-reality-tour/"><img class="alignnone size-full wp-image-827" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/Bayswater-1-1.jpg" alt="bayswater-1" width="100%" height="400" /></a>
 sections:
   - "3"
 sections_1_type:
