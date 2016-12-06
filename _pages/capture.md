@@ -22,6 +22,8 @@ sections_0_copy:
     <h3>Who is this for?</h3>
     This way of presenting property is ideal for estate agents, letting agents, holiday rentals and hotels when the property being marketed already exists.  This enables screen rich and time poor individuals to experience multiple properties without having to physically visit them all.
     
+    &nbsp;
+    
     <img class="alignnone size-full wp-image-827" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/Bayswater-1-1.jpg" alt="bayswater-1" width="700" height="400" />
     
     &nbsp;
