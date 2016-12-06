@@ -19,29 +19,37 @@ sections_0_image:
   - ""
 sections_0_copy:
   - |
-    <h4>A London based virtual reality agency</h4>
+    <h4>Creating immersive marketing content for the property industry</h4>
     <h2>VRPM</h2>
-    VRPM was established with the sole purpose of capturing and creating VR content for the property industry. The team was founded with a single vision and a mix of property, VFX, virtual reality and life experience.
+    VRPM creates immersive 3D marketing content for forward thinking property companies.  All of our content is VR ready and can be used across multiple platforms.   If it exists we capture, if it doesn’t we can build it.
     
-    VR is going to be a big part of the future for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
+    Immersive property marketing is the best way to improve engagement for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
+    
+    &nbsp;
   - |
-    <h4>A London based virtual reality agency</h4>
+    <h4>Creating immersive marketing content for the property industry</h4>
     <h2>VRPM</h2>
-    VRPM was established with the sole purpose of capturing and creating VR content for the property industry. The team was founded with a single vision and a mix of property, VFX, virtual reality and life experience.
+    VRPM creates immersive 3D marketing content for forward thinking property companies.  All of our content is VR ready and can be used across multiple platforms.   If it exists we capture, if it doesn’t we can build it.
     
-    VR is going to be a big part of the future for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
+    Immersive property marketing is the best way to improve engagement for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
+    
+    &nbsp;
   - |
-    <h4>A London based virtual reality agency</h4>
+    <h4>Creating immersive marketing content for the property industry</h4>
     <h2>VRPM</h2>
-    VRPM was established with the sole purpose of capturing and creating VR content for the property industry. The team was founded with a single vision and a mix of property, VFX, virtual reality and life experience.
+    VRPM creates immersive 3D marketing content for forward thinking property companies.  All of our content is VR ready and can be used across multiple platforms.   If it exists we capture, if it doesn’t we can build it.
     
-    VR is going to be a big part of the future for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
+    Immersive property marketing is the best way to improve engagement for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
+    
+    &nbsp;
   - |
-    <h4>A London based virtual reality agency</h4>
+    <h4>Creating immersive marketing content for the property industry</h4>
     <h2>VRPM</h2>
-    VRPM was established with the sole purpose of capturing and creating VR content for the property industry. The team was founded with a single vision and a mix of property, VFX, virtual reality and life experience.
+    VRPM creates immersive 3D marketing content for forward thinking property companies.  All of our content is VR ready and can be used across multiple platforms.   If it exists we capture, if it doesn’t we can build it.
     
-    VR is going to be a big part of the future for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
+    Immersive property marketing is the best way to improve engagement for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
+    
+    &nbsp;
 sections:
   - "5"
   - "5"
@@ -87,19 +95,19 @@ sections_2_image:
 sections_2_copy:
   - |
     <h3>3D Space Capture</h3>
-    <h4>Market property with virtual reality</h4>
+    <h4>Market property using immersive 3D tours</h4>
     We use the latest capture and scan technology to produce cost effective VR ready 3D tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
     <h3>3D Space Capture</h3>
-    <h4>Market property with virtual reality</h4>
+    <h4>Market property using immersive 3D tours</h4>
     We use the latest capture and scan technology to produce cost effective VR ready 3D tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
     <h3>3D Space Capture</h3>
-    <h4>Market property with virtual reality</h4>
+    <h4>Market property using immersive 3D tours</h4>
     We use the latest capture and scan technology to produce cost effective VR ready 3D tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
     <h3>3D Space Capture</h3>
-    <h4>Market property with virtual reality</h4>
+    <h4>Market property using immersive 3D tours</h4>
     We use the latest capture and scan technology to produce cost effective VR ready 3D tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
 sections_3_type:
   - default
@@ -116,7 +124,7 @@ sections_3_copy:
     <h2>Immersive Virtual Tours</h2>
     &nbsp;
     
-    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
+    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=sH4biqrPqoo&amp;brand=0" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
     <h3></h3>
     &nbsp;
     
@@ -129,7 +137,7 @@ sections_3_copy:
     <h2>Immersive Virtual Tours</h2>
     &nbsp;
     
-    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
+    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=sH4biqrPqoo&amp;brand=0" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
     <h3></h3>
     &nbsp;
     
@@ -142,7 +150,7 @@ sections_3_copy:
     <h2>Immersive Virtual Tours</h2>
     &nbsp;
     
-    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
+    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=sH4biqrPqoo&amp;brand=0" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
     <h3></h3>
     &nbsp;
     
@@ -155,7 +163,7 @@ sections_3_copy:
     <h2>Immersive Virtual Tours</h2>
     &nbsp;
     
-    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=HkunmoH8UAo" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
+    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=sH4biqrPqoo&amp;brand=0" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
     <h3></h3>
     &nbsp;
     
