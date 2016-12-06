@@ -22,7 +22,7 @@ sections_0_copy:
     <h3>Who is this for?</h3>
     This way of presenting property is ideal for estate agents, letting agents, holiday rentals and hotels when the property being marketed already exists.  This enables screen rich and time poor individuals to experience multiple properties without having to physically visit them all.
     
-    [iframe src="https://my.matterport.com/show/?m=DNtKE6knM76" width="100%" height="500" scrolling="no" allowfullscreen="true"]
+    <img class="alignnone size-full wp-image-827" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/Bayswater-1-1.jpg" alt="bayswater-1" width="700" height="400" />
     
     &nbsp;
     
@@ -56,6 +56,7 @@ sections_2_copy:
     <h2>How much for a 3D property tour?</h2>
     3D property tours are surprisingly affordable and start from just £99 + VAT
     <div>For more information please contact VRPM</div>
+    <div></div>
     <div></div>
     <div></div>
     <a class="btn" href="#">Contact Us</a>
