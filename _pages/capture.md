@@ -34,7 +34,7 @@ sections_1_image:
 sections_1_video:
   - ""
 sections_1_size:
-  - cover
+  - contain
 sections_1_copy:
   - |
     <h2>How?</h2>
@@ -68,7 +68,7 @@ sections_2_paralax:
 sections_0_parallax:
   - ""
 sections_1_parallax:
-  - "0"
+  - ""
 sections_2_parallax:
   - ""
 sections_0_three_column_content_0_copy:
