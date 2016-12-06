@@ -27,14 +27,6 @@ sections_0_copy:
     [iframe src="https://my.matterport.com/show/?m=DNtKE6knM76" width="100%" height="500" scrolling="no" allowfullscreen="true"]
     
     &nbsp;
-    
-    &nbsp;
-    
-    &nbsp;
-    
-    &nbsp;
-    
-    &nbsp;
 sections:
   - "3"
 sections_1_type:
