@@ -59,8 +59,6 @@ sections_2_copy:
     &nbsp;
     
     <a class="btn" href="#">Contact Us</a>
-    
-    &nbsp;
 sections_0_paralax:
   - ""
 sections_1_paralax:
