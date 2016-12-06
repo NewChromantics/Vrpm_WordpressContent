@@ -32,7 +32,7 @@ sections:
 sections_1_type:
   - highlight
 sections_1_image:
-  - "237"
+  - ""
 sections_1_video:
   - ""
 sections_1_size:
