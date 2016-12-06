@@ -122,7 +122,7 @@ sections_3_image:
 sections_3_copy:
   - |
     <h2>Immersive Virtual Tours</h2>
-    &lt;iframe width="853" height="480" src="https://my.matterport.com/show/?m=sH4biqrPqoo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=sH4biqrPqoo&amp;brand=0" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
     <pre></pre>
     &nbsp;
     
@@ -131,7 +131,7 @@ sections_3_copy:
     A 'dollshouse' version and floor plans of each property is created using the latest scanning and data capture technology. This is the ideal way for users to see an overview of the property.
   - |
     <h2>Immersive Virtual Tours</h2>
-    &lt;iframe width="853" height="480" src="https://my.matterport.com/show/?m=sH4biqrPqoo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=sH4biqrPqoo&amp;brand=0" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
     <pre></pre>
     &nbsp;
     
@@ -140,7 +140,7 @@ sections_3_copy:
     A 'dollshouse' version and floor plans of each property is created using the latest scanning and data capture technology. This is the ideal way for users to see an overview of the property.
   - |
     <h2>Immersive Virtual Tours</h2>
-    &lt;iframe width="853" height="480" src="https://my.matterport.com/show/?m=sH4biqrPqoo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=sH4biqrPqoo&amp;brand=0" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
     <pre></pre>
     &nbsp;
     
@@ -149,7 +149,7 @@ sections_3_copy:
     A 'dollshouse' version and floor plans of each property is created using the latest scanning and data capture technology. This is the ideal way for users to see an overview of the property.
   - |
     <h2>Immersive Virtual Tours</h2>
-    &lt;iframe width="853" height="480" src="https://my.matterport.com/show/?m=sH4biqrPqoo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+    <span style="font-weight: 400;">[iframe src="https://my.matterport.com/show/?m=sH4biqrPqoo&amp;brand=0" width="100%" height="500" scrolling="no" allowfullscreen="true"]</span>
     <pre></pre>
     &nbsp;
     
