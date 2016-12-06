@@ -84,17 +84,17 @@ sections_1_three_column_content_0_copy:
   - |
     <h3> <img class="alignnone wp-image-277" src="http://dev.pedroreis.net/vrpm/wp-content/uploads/2016/08/1474759740_camera-3.png" alt="1474759740_camera-3" width="100" height="100" /></h3>
     <h3>1. Capture</h3>
-    VRPM scan and photograph a space using the latest camera tech.
+    VRPM scan and photograph a space using the latest camera technology
 sections_1_three_column_content_1_copy:
   - |
     <h3> <img class="alignnone wp-image-279" src="http://dev.pedroreis.net/vrpm/wp-content/uploads/2016/08/1474762512_home-1.png" alt="1474762512_home-1" width="100" height="100" /></h3>
     <h3>2. Build</h3>
-    Data captured on-site is edited and uploaded into the cloud for processing.
+    Data captured on-site is edited and uploaded into the cloud for processing
 sections_1_three_column_content_2_copy:
   - |
     <h3> <img class="alignnone wp-image-280" src="http://dev.pedroreis.net/vrpm/wp-content/uploads/2016/08/1474760497_290-01-1.png" alt="1474760497_290-01-1" width="100" height="100" /></h3>
     <h3>3. Present</h3>
-    The end result is a VR ready 3D property tour that works seamlessly across all devices and platforms.
+    The end result is a VR ready 3D property tour that works seamlessly across all devices and platforms
 sections_1_three_column_content:
   - "3"
 sections_2_three_column_content_0_copy:
