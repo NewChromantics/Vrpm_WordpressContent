@@ -24,7 +24,7 @@ sections_0_copy:
     
     &nbsp;
     
-    [iframe src="https://my.matterport.com/show/?m=DNtKE6knM76" width="100%" height="500" scrolling="no" allowfullscreen="true"]
+    <a href="http://www.vrpm.co.uk/work/50-kensington-garden-square-3d-virtual-reality-tour/"><img class="alignnone size-full wp-image-810" src="http://www.vrpm.co.uk/wp-content/uploads/2016/08/Bayswater.jpg" alt="bayswater" width="853" height="480" /></a>
     
     &nbsp;
     
