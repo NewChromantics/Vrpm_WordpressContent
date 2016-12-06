@@ -37,7 +37,7 @@ sections_1_size:
   - contain
 sections_1_copy:
   - |
-    <h2></h2>
+    <h2> How?</h2>
     <h3></h3>
     <h3></h3>
     <h3></h3>
