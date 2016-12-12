@@ -6,7 +6,7 @@ post_date: 2016-12-12 18:25:48
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.vrpm.co.uk/chelsea-3d-virtual-reality-tour/
+  http://www.vrpm.co.uk/work/chelsea-3d-virtual-reality-tour/
 published: true
 banner_media_type:
   - parallax
