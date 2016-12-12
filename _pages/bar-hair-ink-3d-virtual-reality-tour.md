@@ -11,4 +11,4 @@ published: true
 banner_media_type:
   - parallax
 ---
-<iframe src="https://my.matterport.com/show/?m=9UUrF2erx7q" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://my.matterport.com/show/?m=9UUrF2erx7q&brand=0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
