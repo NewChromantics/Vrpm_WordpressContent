@@ -5,7 +5,8 @@ author: Admin dev@vrpm.co
 post_date: 2016-12-13 10:55:42
 post_excerpt: ""
 layout: post
-permalink: http://www.vrpm.co.uk/are-you-engaged/
+permalink: >
+  http://www.vrpm.co.uk/immersive-marketing/
 published: true
 ---
 <h2>How do you engage with potential buyers and tenants?</h2>
