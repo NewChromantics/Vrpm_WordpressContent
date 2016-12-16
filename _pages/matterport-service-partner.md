@@ -160,4 +160,4 @@ sections_4_three_column_content:
   - "3"
 ---
 <h1>Matterport</h1>
-<img class="alignnone wp-image-912" src="http://www.vrpm.co.uk/wp-content/uploads/2016/12/mat_badge_s_clr_web.png" alt="mat_badge_s_clr_web" width="200" height="231" />
+<img class="alignnone wp-image-912 size-thumbnail" src="http://www.vrpm.co.uk/wp-content/uploads/2016/12/mat_badge_s_clr_web-150x150.png" alt="mat_badge_s_clr_web" width="150" height="150" />
