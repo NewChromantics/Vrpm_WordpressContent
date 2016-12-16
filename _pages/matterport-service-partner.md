@@ -56,9 +56,9 @@ sections_1_height:
 sections_1_video:
   - ""
 sections_1_size:
-  - contain
+  - cover
 sections_1_parallax:
-  - ""
+  - "1"
 sections_1_copy:
   - ""
 sections_1_three_column_content_0_copy:
