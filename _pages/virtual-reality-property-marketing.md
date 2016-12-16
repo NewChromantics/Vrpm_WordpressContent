@@ -96,19 +96,19 @@ sections_2_copy:
   - |
     <h3>3D Space Capture</h3>
     <h4>Market property using immersive 3D tours</h4>
-    We use the latest capture and scan technology to produce cost effective VR ready 3D property tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
+    We use the latest <a href="http://www.vrpm.co.uk/matterport-service-partner/">Matterport capture and scan technology</a> to produce cost effective VR ready 3D property tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
     <h3>3D Space Capture</h3>
     <h4>Market property using immersive 3D tours</h4>
-    We use the latest capture and scan technology to produce cost effective VR ready 3D property tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
+    We use the latest <a href="http://www.vrpm.co.uk/matterport-service-partner/">Matterport capture and scan technology</a> to produce cost effective VR ready 3D property tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
     <h3>3D Space Capture</h3>
     <h4>Market property using immersive 3D tours</h4>
-    We use the latest capture and scan technology to produce cost effective VR ready 3D property tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
+    We use the latest <a href="http://www.vrpm.co.uk/matterport-service-partner/">Matterport capture and scan technology</a> to produce cost effective VR ready 3D property tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
     <h3>3D Space Capture</h3>
     <h4>Market property using immersive 3D tours</h4>
-    We use the latest capture and scan technology to produce cost effective VR ready 3D property tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
+    We use the latest <a href="http://www.vrpm.co.uk/matterport-service-partner/">Matterport capture and scan technology</a> to produce cost effective VR ready 3D property tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
 sections_3_type:
   - default
   - default
