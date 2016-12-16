@@ -92,6 +92,8 @@ sections_2_copy:
   - |
     <h2>Multi Platform Delivery</h2>
     The hosted Matterport tours can be seen on almost any device with an internet connection.  Or you can download the tours into your own Matterport Showcase App if you become a collaborator with VRPM.
+    
+    &nbsp;
     All of the Matterport tours provided by VRPM will have the ‘Core VR’ enabled unless specifically requested.   This means that anyone viewing the space can see it through Google Cardboard or a Samsung Gear VR device.
 sections_2_three_column_content_0_copy:
   - '<a href="http://www.vrpm.co.uk/work/ovington-street-3d-virtual-reality-tour/"><img class="alignnone size-medium wp-image-935" src="http://www.vrpm.co.uk/wp-content/uploads/2016/12/Residential-300x171.jpg" alt="residential" width="300" height="171" /></a>'
