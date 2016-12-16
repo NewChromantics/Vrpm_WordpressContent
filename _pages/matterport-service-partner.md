@@ -44,11 +44,11 @@ sections_0_three_column_content:
 sections:
   - "2"
 sections_1_type:
-  - default
+  - highlight
 sections_1_media:
-  - none
+  - image
 sections_1_image:
-  - ""
+  - "895"
 sections_1_width:
   - ""
 sections_1_height:
@@ -56,9 +56,9 @@ sections_1_height:
 sections_1_video:
   - ""
 sections_1_size:
-  - ""
+  - cover
 sections_1_parallax:
-  - ""
+  - "0"
 sections_1_copy:
   - ""
 sections_1_three_column_content_0_copy:
