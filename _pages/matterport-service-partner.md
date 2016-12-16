@@ -104,9 +104,9 @@ sections_2_three_column_content:
 sections_3_type:
   - highlight
 sections_3_media:
-  - none
+  - image
 sections_3_image:
-  - ""
+  - "942"
 sections_3_width:
   - ""
 sections_3_height:
