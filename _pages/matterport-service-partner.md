@@ -45,7 +45,7 @@ sections_0_three_column_content_2_copy:
 sections_0_three_column_content:
   - "3"
 sections:
-  - "4"
+  - "5"
 sections_1_type:
   - highlight
 sections_1_media:
@@ -129,6 +129,34 @@ sections_3_three_column_content_1_copy:
 sections_3_three_column_content_2_copy:
   - ""
 sections_3_three_column_content:
+  - "3"
+sections_4_type:
+  - default
+sections_4_media:
+  - none
+sections_4_image:
+  - ""
+sections_4_width:
+  - ""
+sections_4_height:
+  - ""
+sections_4_video:
+  - ""
+sections_4_size:
+  - ""
+sections_4_parallax:
+  - ""
+sections_4_copy:
+  - |
+    <h2>Matterport Service Partner</h2>
+    <h5>UK, London, Bedfordshire, Berkshire,Buckinghamshire,Cambridgeshire, Cheshire, Cleveland, Cornwall, County Durham, Cumbria, Derbyshire, Devon, Dorset, East Riding of Yorkshire, East Sussex, Essex, Gloucestershire, Greater London, Greater Manchester, Hampshire, Herefordshire, Hertfordshire, Isle of Wight, Kent, Lancashire, Leicestershire, Lincolnshire, Merseyside, Norfolk, North Yorkshire, Northamptonshire, Northumberland, Nottinghamshire, Oxfordshire, Rutland, Shropshire, Somerset, South Yorkshire, Staffordshire, Suffolk, Surrey, Tyne &amp; Wear, Warwickshire, West Midlands, West Sussex, West Yorkshire, Wiltshire, Worcestershire, Bath, Birmingham, Bradford, Brighton and Hove, Bristol, Cambridge, Canterbury, Carlisle, Chester, Chichester, Coventry, Derby, Durham, Ely, Exeter, Gloucester, Hereford, Kingston upon Hull,  Lancaster, Leeds, Leicester, Lichfield, Lincoln, Liverpool, City of London, Manchester,Newcastle, Norwich, Nottingham, Oxford, Peterborough, Plymouth, Portsmouth, Preston, Ripon, Salford, Salisbury, Sheffield, Southampton, St Albans, Stoke-on-Trent, Sunderland, Truro, Wakefield, Wells, Westminster, Winchester, Wolverhampton, Worcester, York</h5>
+sections_4_three_column_content_0_copy:
+  - ""
+sections_4_three_column_content_1_copy:
+  - ""
+sections_4_three_column_content_2_copy:
+  - ""
+sections_4_three_column_content:
   - "3"
 ---
 <h1>Matterport</h1>
