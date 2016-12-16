@@ -65,7 +65,7 @@ sections_1_parallax:
 sections_1_copy:
   - ""
 sections_1_three_column_content_0_copy:
-  - ""
+  - '<img class="alignnone size-medium wp-image-932" src="http://www.vrpm.co.uk/wp-content/uploads/2016/12/Residential-300x171.png" alt="residential" width="300" height="171" />'
 sections_1_three_column_content_1_copy:
   - ""
 sections_1_three_column_content_2_copy:
