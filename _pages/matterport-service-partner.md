@@ -45,7 +45,7 @@ sections_0_three_column_content_2_copy:
 sections_0_three_column_content:
   - "3"
 sections:
-  - "3"
+  - "4"
 sections_1_type:
   - highlight
 sections_1_media:
@@ -89,7 +89,10 @@ sections_2_size:
 sections_2_parallax:
   - ""
 sections_2_copy:
-  - ""
+  - |
+    <h2>Multi Platform Delivery</h2>
+    The hosted Matterport tours can be seen on almost any device with an internet connection.  Or you can download the tours into your own Matterport Showcase App if you become a collaborator with VRPM.
+    All of the Matterport tours provided by VRPM will have the ‘Core VR’ enabled unless specifically requested.   This means that anyone viewing the space can see it through Google Cardboard or a Samsung Gear VR device.
 sections_2_three_column_content_0_copy:
   - '<a href="http://www.vrpm.co.uk/work/ovington-street-3d-virtual-reality-tour/"><img class="alignnone size-medium wp-image-935" src="http://www.vrpm.co.uk/wp-content/uploads/2016/12/Residential-300x171.jpg" alt="residential" width="300" height="171" /></a>'
 sections_2_three_column_content_1_copy:
@@ -97,6 +100,32 @@ sections_2_three_column_content_1_copy:
 sections_2_three_column_content_2_copy:
   - '<a href="http://www.vrpm.co.uk/work/alcester-farmhouse-3d-virtual-reality-tour/"><img class="alignnone size-medium wp-image-937" src="http://www.vrpm.co.uk/wp-content/uploads/2016/12/holiday-300x171.jpg" alt="holiday" width="300" height="171" /></a>'
 sections_2_three_column_content:
+  - "3"
+sections_3_type:
+  - default
+sections_3_media:
+  - none
+sections_3_image:
+  - ""
+sections_3_width:
+  - ""
+sections_3_height:
+  - ""
+sections_3_video:
+  - ""
+sections_3_size:
+  - ""
+sections_3_parallax:
+  - ""
+sections_3_copy:
+  - ""
+sections_3_three_column_content_0_copy:
+  - ""
+sections_3_three_column_content_1_copy:
+  - ""
+sections_3_three_column_content_2_copy:
+  - ""
+sections_3_three_column_content:
   - "3"
 ---
 <h1>Matterport</h1>
