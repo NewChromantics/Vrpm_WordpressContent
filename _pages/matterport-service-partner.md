@@ -48,7 +48,7 @@ sections_1_type:
 sections_1_media:
   - image
 sections_1_image:
-  - "895"
+  - "927"
 sections_1_width:
   - ""
 sections_1_height:
@@ -56,9 +56,9 @@ sections_1_height:
 sections_1_video:
   - ""
 sections_1_size:
-  - cover
+  - contain
 sections_1_parallax:
-  - "0"
+  - ""
 sections_1_copy:
   - ""
 sections_1_three_column_content_0_copy:
