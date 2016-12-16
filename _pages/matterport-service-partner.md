@@ -119,9 +119,11 @@ sections_3_parallax:
   - "0"
 sections_3_copy:
   - |
-    <h3>To experience a VR ready immersive tour or to speak to VRPM please call on 020 3488 0506 or...</h3>
+    To experience a VR ready immersive tour or to speak to VRPM please call on 020 3488 0506 or...
+    
     <a class="btn" href="http://www.vrpm.co.uk/contact/">Contact Us</a>
-    <h3>For estate and letting agents VRPM can offer all in one marketing solutions with floor plans and pictures.</h3>
+    
+    For estate and letting agents VRPM can offer all in one marketing solutions with floor plans and pictures.
 sections_3_three_column_content_0_copy:
   - ""
 sections_3_three_column_content_1_copy:
@@ -150,6 +152,7 @@ sections_4_copy:
   - |
     <h2>Matterport Service Partner</h2>
     <h5>UK, London, Bedfordshire, Berkshire,Buckinghamshire,Cambridgeshire, Cheshire, Cleveland, Cornwall, County Durham, Cumbria, Derbyshire, Devon, Dorset, East Riding of Yorkshire, East Sussex, Essex, Gloucestershire, Greater London, Greater Manchester, Hampshire, Herefordshire, Hertfordshire, Isle of Wight, Kent, Lancashire, Leicestershire, Lincolnshire, Merseyside, Norfolk, North Yorkshire, Northamptonshire, Northumberland, Nottinghamshire, Oxfordshire, Rutland, Shropshire, Somerset, South Yorkshire, Staffordshire, Suffolk, Surrey, Tyne &amp; Wear, Warwickshire, West Midlands, West Sussex, West Yorkshire, Wiltshire, Worcestershire, Bath, Birmingham, Bradford, Brighton and Hove, Bristol, Cambridge, Canterbury, Carlisle, Chester, Chichester, Coventry, Derby, Durham, Ely, Exeter, Gloucester, Hereford, Kingston upon Hull,  Lancaster, Leeds, Leicester, Lichfield, Lincoln, Liverpool, City of London, Manchester,Newcastle, Norwich, Nottingham, Oxford, Peterborough, Plymouth, Portsmouth, Preston, Ripon, Salford, Salisbury, Sheffield, Southampton, St Albans, Stoke-on-Trent, Sunderland, Truro, Wakefield, Wells, Westminster, Winchester, Wolverhampton, Worcester, York</h5>
+    <img class="alignnone size-medium wp-image-950" src="http://www.vrpm.co.uk/wp-content/uploads/2016/12/MAT_pwrd_s_clr_web-300x110.png" alt="mat_pwrd_s_clr_web" width="300" height="110" />
 sections_4_three_column_content_0_copy:
   - ""
 sections_4_three_column_content_1_copy:
