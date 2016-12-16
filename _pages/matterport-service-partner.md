@@ -119,8 +119,11 @@ sections_3_parallax:
   - "0"
 sections_3_copy:
   - |
-    To experience a VR ready immersive tour or to speak to VRPM please call on +44 (0)20 3488 0506 or email us at <a href="mailto:info@vrpm.co.uk">info@vrpm.co.uk</a>
-    For estate and letting agents VRPM can offer all in one marketing solutions with floor plans and pictures.
+    To experience a VR ready immersive tour or to speak to VRPM please call on +44 (0)20 3488 0506 or;
+    
+    <a class="btn" href="mailto:info@vrpm.co.uk">info@vrpm.co.uk</a>
+    <h3>
+    For estate and letting agents VRPM can offer all in one marketing solutions with floor plans and pictures.</h3>
 sections_3_three_column_content_0_copy:
   - ""
 sections_3_three_column_content_1_copy:
