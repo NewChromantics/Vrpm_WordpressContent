@@ -60,7 +60,7 @@ sections_1_size:
 sections_1_parallax:
   - ""
 sections_1_copy:
-  - '<iframe src="https://my.matterport.com/show/?m=G8foWNLLMpu&amp;brand=0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>'
+  - '<iframe src="https://my.matterport.com/show/?m=G8foWNLLMpu&amp;brand=0" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>'
 sections_1_three_column_content_0_copy:
   - ""
 sections_1_three_column_content_1_copy:
