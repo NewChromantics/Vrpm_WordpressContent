@@ -30,6 +30,7 @@ sections_0_parallax:
   - ""
 sections_0_copy:
   - |
+    <h4></h4>
     <h4>VRPM are an official Matterport Service Partner operating throughout the UK and Europe.</h4>
     <h1>Next-generation immersive media</h1>
     Matterport Spaces aren’t your traditional virtual tours. They’re completely new form of immersive 3D media that invites you to explore a place as if you were really there. Step inside a Matterport Space and start exploring somewhere new.
@@ -58,7 +59,7 @@ sections_1_video:
 sections_1_size:
   - cover
 sections_1_parallax:
-  - "1"
+  - "0"
 sections_1_copy:
   - ""
 sections_1_three_column_content_0_copy:
