@@ -45,7 +45,7 @@ sections_0_three_column_content_2_copy:
 sections_0_three_column_content:
   - "3"
 sections:
-  - "2"
+  - "3"
 sections_1_type:
   - highlight
 sections_1_media:
@@ -65,12 +65,38 @@ sections_1_parallax:
 sections_1_copy:
   - ""
 sections_1_three_column_content_0_copy:
-  - '<img class="alignnone size-medium wp-image-932" src="http://www.vrpm.co.uk/wp-content/uploads/2016/12/Residential-300x171.png" alt="residential" width="300" height="171" />'
+  - ""
 sections_1_three_column_content_1_copy:
   - ""
 sections_1_three_column_content_2_copy:
   - ""
 sections_1_three_column_content:
+  - "3"
+sections_2_type:
+  - default
+sections_2_media:
+  - none
+sections_2_image:
+  - ""
+sections_2_width:
+  - ""
+sections_2_height:
+  - ""
+sections_2_video:
+  - ""
+sections_2_size:
+  - ""
+sections_2_parallax:
+  - ""
+sections_2_copy:
+  - ""
+sections_2_three_column_content_0_copy:
+  - '<a href="http://www.vrpm.co.uk/work/ovington-street-3d-virtual-reality-tour/"><img class="alignnone size-medium wp-image-935" src="http://www.vrpm.co.uk/wp-content/uploads/2016/12/Residential-300x171.jpg" alt="residential" width="300" height="171" /></a>'
+sections_2_three_column_content_1_copy:
+  - '<a href="http://www.vrpm.co.uk/work/bar-hair-ink-3d-virtual-reality-tour/"><img class="alignnone size-medium wp-image-936" src="http://www.vrpm.co.uk/wp-content/uploads/2016/12/commercial-300x171.jpg" alt="commercial" width="300" height="171" /></a>'
+sections_2_three_column_content_2_copy:
+  - '<a href="http://www.vrpm.co.uk/work/alcester-farmhouse-3d-virtual-reality-tour/"><img class="alignnone size-medium wp-image-937" src="http://www.vrpm.co.uk/wp-content/uploads/2016/12/holiday-300x171.jpg" alt="holiday" width="300" height="171" /></a>'
+sections_2_three_column_content:
   - "3"
 ---
 <h1>Matterport</h1>
