@@ -23,7 +23,7 @@ sections_0_copy:
     <h2>VRPM</h2>
     VRPM creates immersive 3D marketing content for forward thinking property companies.  All of our content is VR ready and can be used across multiple platforms.   If it exists we capture, if it doesn’t we can build it.
     
-    Immersive property marketing is the best way to improve engagement for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
+    Immersive property marketing is the best way to improve engagement for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using a virtual tour for marketing can help people to fully experience a residential or commercial space without physically being there.
     
     &nbsp;
   - |
@@ -31,7 +31,7 @@ sections_0_copy:
     <h2>VRPM</h2>
     VRPM creates immersive 3D marketing content for forward thinking property companies.  All of our content is VR ready and can be used across multiple platforms.   If it exists we capture, if it doesn’t we can build it.
     
-    Immersive property marketing is the best way to improve engagement for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
+    Immersive property marketing is the best way to improve engagement for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using a virtual tour for marketing can help people to fully experience a residential or commercial space without physically being there.
     
     &nbsp;
   - |
@@ -39,7 +39,7 @@ sections_0_copy:
     <h2>VRPM</h2>
     VRPM creates immersive 3D marketing content for forward thinking property companies.  All of our content is VR ready and can be used across multiple platforms.   If it exists we capture, if it doesn’t we can build it.
     
-    Immersive property marketing is the best way to improve engagement for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
+    Immersive property marketing is the best way to improve engagement for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using a virtual tour for marketing can help people to fully experience a residential or commercial space without physically being there.
     
     &nbsp;
   - |
@@ -47,7 +47,7 @@ sections_0_copy:
     <h2>VRPM</h2>
     VRPM creates immersive 3D marketing content for forward thinking property companies.  All of our content is VR ready and can be used across multiple platforms.   If it exists we capture, if it doesn’t we can build it.
     
-    Immersive property marketing is the best way to improve engagement for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using virtual reality for marketing can help people to fully experience a residential or commercial space without physically being there.
+    Immersive property marketing is the best way to improve engagement for businesses such as <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents, letting agents</a>, holiday cottages, serviced apartment companies, commercial property agents, new homes sales, architects and wedding venues. Using a virtual tour for marketing can help people to fully experience a residential or commercial space without physically being there.
     
     &nbsp;
 sections:
@@ -68,19 +68,19 @@ sections_1_image:
 sections_1_copy:
   - |
     <h2>See property in VR</h2>
-    <h4>We capture and build spaces then turn them into virtual reality ready 3D models</h4>
+    <h4>We capture and build spaces then turn them into VR ready 3D virtual tours</h4>
     Our studio can create presentations for use with any of the major VR systems including; HTC Vive, Oculus, Gear VR and Sony Playstation VR.
   - |
     <h2>See property in VR</h2>
-    <h4>We capture and build spaces then turn them into virtual reality ready 3D models</h4>
+    <h4>We capture and build spaces then turn them into VR ready 3D virtual tours</h4>
     Our studio can create presentations for use with any of the major VR systems including; HTC Vive, Oculus, Gear VR and Sony Playstation VR.
   - |
     <h2>See property in VR</h2>
-    <h4>We capture and build spaces then turn them into virtual reality ready 3D models</h4>
+    <h4>We capture and build spaces then turn them into VR ready 3D virtual tours</h4>
     Our studio can create presentations for use with any of the major VR systems including; HTC Vive, Oculus, Gear VR and Sony Playstation VR.
   - |
     <h2>See property in VR</h2>
-    <h4>We capture and build spaces then turn them into virtual reality ready 3D models</h4>
+    <h4>We capture and build spaces then turn them into VR ready 3D virtual tours</h4>
     Our studio can create presentations for use with any of the major VR systems including; HTC Vive, Oculus, Gear VR and Sony Playstation VR.
 sections_2_type:
   - default
@@ -96,19 +96,19 @@ sections_2_copy:
   - |
     <h3>3D Space Capture</h3>
     <h4>Market property using immersive 3D tours</h4>
-    We use the latest <a href="http://www.vrpm.co.uk/matterport-service-partner/">Matterport capture and scan technology</a> to produce cost effective VR ready 3D property tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
+    We use the latest <a href="http://www.vrpm.co.uk/matterport-service-partner/">Matterport capture and scan technology</a> to produce cost effective VR ready 3D virtual tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
     <h3>3D Space Capture</h3>
     <h4>Market property using immersive 3D tours</h4>
-    We use the latest <a href="http://www.vrpm.co.uk/matterport-service-partner/">Matterport capture and scan technology</a> to produce cost effective VR ready 3D property tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
+    We use the latest <a href="http://www.vrpm.co.uk/matterport-service-partner/">Matterport capture and scan technology</a> to produce cost effective VR ready 3D virtual tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
     <h3>3D Space Capture</h3>
     <h4>Market property using immersive 3D tours</h4>
-    We use the latest <a href="http://www.vrpm.co.uk/matterport-service-partner/">Matterport capture and scan technology</a> to produce cost effective VR ready 3D property tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
+    We use the latest <a href="http://www.vrpm.co.uk/matterport-service-partner/">Matterport capture and scan technology</a> to produce cost effective VR ready 3D virtual tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
   - |
     <h3>3D Space Capture</h3>
     <h4>Market property using immersive 3D tours</h4>
-    We use the latest <a href="http://www.vrpm.co.uk/matterport-service-partner/">Matterport capture and scan technology</a> to produce cost effective VR ready 3D property tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
+    We use the latest <a href="http://www.vrpm.co.uk/matterport-service-partner/">Matterport capture and scan technology</a> to produce cost effective VR ready 3D virtual tours of any space.  This is ideal for businesses looking to market property in a unique and innovative way.
 sections_3_type:
   - default
   - default
@@ -290,7 +290,7 @@ sections_4_size:
 sections_4_copy:
   - |
     <h3>Build</h3>
-    <h4>Bespoke design and build</h4>
+    <h4>Bespoke VR design and build</h4>
     As well as capturing physical spaces, we can design and build fully immersive room scale VR spaces. This allows property developers and New Homes agents to market unbuilt properties and remain ahead of the curve.
     
     <a class="btn" href="http://www.vrpm.co.uk/build">More</a>
@@ -379,4 +379,4 @@ sections_4_height:
   - ""
 ---
 <h1>Immersive</h1>
-<h2>Property Marketing</h2>
+<h2>VR Property Marketing</h2>
