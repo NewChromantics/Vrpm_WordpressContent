@@ -17,8 +17,8 @@ sections_0_size:
   - ""
 sections_0_copy:
   - |
-    <h2>What are 3D property tours?</h2>
-    VRPM create 3D models of existing spaces by using images and data captured on site. These 3D models work seamlessly across multiple devices (phones/tablets/desktop) and are compatible with Samsung GearVR and Google Cardboard. Each captured space gives the user the flexibility to move around the property to get an accurate reflection of what the place is actually like.
+    <h2>What are 3D virtual tours?</h2>
+    VRPM create 3D models of existing spaces by collating images and data captured on site using <a href="http://www.vrpm.co.uk/matterport-service-partner/">Matterport</a> technology. These 3D models work seamlessly across multiple devices (phones/tablets/desktop) and are compatible with Samsung GearVR and Google Cardboard. Each captured space gives the user the flexibility to move around the property to get an accurate reflection of what the place is actually like.
     <h3>Who is this for?</h3>
     This way of presenting property is ideal for estate agents, letting agents, holiday rentals and hotels when the property being marketed already exists.  This enables screen rich and time poor individuals to experience multiple properties without having to physically visit them all.
     
@@ -160,7 +160,7 @@ sections_4_three_column_content_2_copy:
 video:
   - "844"
 ---
-<h1>3D Property Tours</h1>
-Experience fully immersive virtual spaces
+<h1>3D Virtual Tour</h1>
+&nbsp;
 <h2></h2>
 &nbsp;
