@@ -64,7 +64,7 @@ sections_1_parallax:
 sections_1_copy:
   - |
     <h2>Isn’t Virtual Reality really expensive?</h2>
-    A virtual reality presentation is not that expensive to produce any more, unless you want to create an entirely bespoke presentation of a fictional property then it is only a little more expensive than traditional photos and a floor plan.
+    A virtual reality presentation is not that expensive to produce any more, unless you want to create an entirely bespoke VR presentation of a fictional property then it is only a little more expensive than traditional photos and a floor plan.
     
     The cost to show potential buyers or tenants virtual reality within an office environment can be from as little as £15 for Google Cardboard or a few hundred £s for a setup such as the Samsung Gear VR or the new Google Daydream platform.
     
