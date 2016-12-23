@@ -22,7 +22,7 @@ sections_0_copy:
     <h1>Why VR for property?</h1>
     VRPM was started because of a shared opinion that there is a better way to view property than just photographs, floor plans and blurb.
     
-    Once experienced, VR becomes obvious for property as virtual reality enhances every situation where a photo is used for marketing. The ability to be able to get a real sense of space and volume without having to go there can help to reinforce and make decisions.
+    Once experienced, VR becomes obvious for property as virtual reality enhances every situation where a photo is used for property marketing. The ability to be able to get a real sense of space and volume without having to go there can help to reinforce and make decisions.
 sections_1_type:
   - default
 sections_1_image:
@@ -36,7 +36,7 @@ sections_1_parallax:
 sections_1_copy:
   - |
     <h2>Who are VRPM?</h2>
-    <span style="font-weight: 400;">VRPM is a collaboration between Analog Studio, a VR developer and two <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents</a>.  </span>
+    <span style="font-weight: 400;">Based in London, VRPM is a collaboration between Analog Studio, a VR developer and two <a href="http://www.vrpm.co.uk/virtual-reality-estate-agents/">estate agents</a>.  </span>
     
     &nbsp;
     
