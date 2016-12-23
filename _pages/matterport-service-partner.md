@@ -35,7 +35,7 @@ sections_0_copy:
     <h1>Next-generation immersive virtual tour</h1>
     &nbsp;
     
-    Matterport Spaces aren’t like your traditional virtual tour. They arre completely new form of immersive 3D presentation that invites you to explore a place as if you were really there. Step inside a Matterport Space from VRPM and start exploring somewhere new.
+    Matterport Spaces aren’t like your traditional virtual tour. They are completely new form of immersive 3D presentation that invites you to explore a place as if you were really there. Step inside a Matterport Space from VRPM and start exploring somewhere new.
 sections_0_three_column_content_0_copy:
   - ""
 sections_0_three_column_content_1_copy:
