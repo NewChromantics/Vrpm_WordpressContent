@@ -119,7 +119,7 @@ sections_3_parallax:
   - "0"
 sections_3_copy:
   - |
-    To experience a VR ready immersive tour or to speak to VRPM please call on 020 3488 0506 or...
+    To experience a VR ready immersive virtual tour or to speak to VRPM please call on 020 3488 0506 or...
     
     <a class="btn" href="http://www.vrpm.co.uk/contact/">Contact Us</a>
     
