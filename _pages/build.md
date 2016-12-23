@@ -19,7 +19,7 @@ sections_0_parallax:
   - ""
 sections_0_copy:
   - |
-    <h1>Virtual Reality for pre-build</h1>
+    <h1>Virtual Reality for Property</h1>
     VRPM can build perfectly rendered photo realistic virtual reality spaces for use with any kind of VR equipment.  Depending on how the unbuilt space or property is going to be presented VRPM can build a virtual reality presentation to suit the client.
     
     We have partnered with a highly regarded architectural visualisation firm in order to provide what will be essential service for Developers, New Homes sales and Overseas Property Investors.
