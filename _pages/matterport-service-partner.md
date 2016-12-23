@@ -30,7 +30,7 @@ sections_0_parallax:
   - ""
 sections_0_copy:
   - |
-    <h3> VRPM are an official Matterport Service Partner operating throughout the UK and Europe.</h3>
+    <h3> VRPM are an official Matterport Service Partner in London operating throughout the UK and Europe.</h3>
     &nbsp;
     <h1>Next-generation immersive media</h1>
     &nbsp;
