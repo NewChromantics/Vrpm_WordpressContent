@@ -24,4 +24,4 @@ VRPM was set up to provide the best content for the property industry.   If th
 
 Matterport is far far more than just virtual reality content though and so much more than 360 pictures.   It is about 3D.  Depth.  Quality.  Delivery, and a platform upon which the company will grow.  We hope.  If somebody comes up with something better then we will have to take a look but right now we are confident that for the next few years nothing comes close to Matterport.
 
-<img class="alignnone wp-image-1000 size-full" src="http://www.vrpm.co.uk/wp-content/uploads/2016/12/Desktop_Mobile_VR-e1483097967479.png" width="560" height="448" />
+<img class="alignnone wp-image-1000 size-full" src="http://www.vrpm.co.uk/wp-content/uploads/2016/12/Desktop_Mobile_VR-e1483097967479.png" width="100%" height="100%" />
