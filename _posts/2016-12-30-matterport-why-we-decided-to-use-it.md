@@ -16,7 +16,7 @@ A few hours of research later and Matterport had cropped up - repeatedly.  Matt
 
 We decided after a night that we would set up a virtual reality business purely on the back of what we had seen produced by Matterport.  We all had access to Samsung Gear VR set ups and one of the founders had a Vive so we could see immediately two sides to the business.  Capture and Build.   Capture spaces using Matterport and build spaces using Unreal or Unity.
 
-<img class="alignnone wp-image-1003 size-full" src="http://www.vrpm.co.uk/wp-content/uploads/2016/12/systems.png" alt="vrpm" width="560" height="315" />
+<img class="alignnone wp-image-1003 size-full" src="http://www.vrpm.co.uk/wp-content/uploads/2016/12/systems.png" alt="vrpm" width="100%" height="100%" />
 
 About two weeks after this we thought that with the in-house skill set (the techish people anyway) we could probably build something close to Matterport at a much lower price point.  Matterport isn’t the cheapest.  A few months and a few thousand £ later we did pretty well but we just felt we weren’t getting close to delivering.
 
