@@ -25,7 +25,7 @@ These environments are also powering the new way to view property - in 3D.   N
 <h2>The new way to visualise.</h2>
 &nbsp;
 
-The architectural visualisation community is now trying to come to terms with this new reality and are now competing in a space occupied by computers games designers and engineers.  With the tools of each trade becoming more user friendly the quality of product available for property developers is improving rapidly and the price is dropping.
+The architectural visualisation community is coming to terms with this new reality and are now competing in a space occupied by computers games designers and engineers.  With the tools of each trade becoming more user friendly the quality of product available for property developers is improving rapidly and the price is dropping.
 
 The very best artists in architectural visualisation can now take the fanciful competition entry drawings and build them to scale in 3D - admittedly it is still very time consuming but the possibility is there - and allow people to immerse themselves in these spaces.
 
