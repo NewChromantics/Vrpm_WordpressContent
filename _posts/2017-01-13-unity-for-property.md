@@ -22,7 +22,11 @@ These environments are also powering the new way to view property - in 3D.   N
 The architectural visualisation community is now trying to come to terms with this new reality and are now competing in a space occupied by computers games designers and engineers.  With the tools of each trade becoming more user friendly the quality of product available for property developers is improving rapidly and the price is dropping.
 
 The very best artists in architectural visualisation can now take the fanciful competition entry drawings and build them to scale in 3D - admittedly it is still very time consuming but the possibility is there - and allow people to immerse themselves in these spaces.
+
+&nbsp;
 <h2>The Vive.</h2>
+&nbsp;
+
 The significant leap during 2016 really has to be down to the emergence of the HTC Vive.  Although the Oculus Rift has been launched to much fanfare by owner Facebook, the HTC Vive is the <a href="http://www.virtualreality-news.net/news/2016/aug/25/majority-developers-focusing-htc-vive-new-research-says/">current system of choice for games developers</a>.  The Vive was very good from launch and improvements are naturally ongoing, making the best better.   The first system to really offer room scale VR to the masses and delivering it well.
 
 <img class="alignnone wp-image-1029 size-full" src="http://vrpm.co.uk/wp-content/uploads/2017/01/the-vive.png" alt="htc vive virtual reality" width="560" height="315" />
