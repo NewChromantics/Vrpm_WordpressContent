@@ -7,6 +7,12 @@ post_excerpt: ""
 layout: post
 permalink: http://vrpm.co.uk/unity-for-property/
 published: true
+enclosure:
+  - |
+    http://vrpm.co.uk/wp-content/uploads/2016/10/VRPM_Edit_002.mp4
+    0
+    video/mp4
+    
 ---
 <h2>An Unreal future in the property industry.</h2>
 Two slightly misleading titles but true, Unity and Unreal are the best way to visualise property in a 3D virtual environment.   Both are not designed for the property industry but are the leading players in the ‘games engine’ market - the spaces in which people build computer games, visualisations and simulations.
@@ -35,7 +41,7 @@ There is no way that expensive still CGIs will be the dominant force in visualis
 
 &nbsp;
 
-[video width="1280" height="720" mp4="http://vrpm.co.uk/wp-content/uploads/2016/10/VRPM_Edit_002.mp4"][/video]
+[video width="1280" height="720" mp4="http://vrpm.co.uk/wp-content/uploads/2016/10/VRPM_Edit_002.mp4" loop="true"][/video]
 
 &nbsp;
 
