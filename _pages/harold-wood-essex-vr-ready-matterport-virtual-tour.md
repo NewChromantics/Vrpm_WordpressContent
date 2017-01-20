@@ -6,7 +6,7 @@ post_date: 2017-01-20 09:10:50
 post_excerpt: ""
 layout: page
 permalink: >
-  http://vrpm.co.uk/harold-wood-essex-vr-ready-matterport-virtual-tour/
+  http://vrpm.co.uk/work/harold-wood-essex-vr-ready-matterport-virtual-tour/
 published: true
 banner_media_type:
   - parallax
