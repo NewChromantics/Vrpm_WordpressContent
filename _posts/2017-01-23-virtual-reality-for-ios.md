@@ -16,12 +16,12 @@ Android users have been able to view around 300,000 spaces worldwide through eit
 
 Minimum spec required to run the Matterport VR app is iOS 9.1 and an iPhone 5s.
 
-We think this is a breakthrough for Matterport and VRPM, as it means that the vast majority of people can now access the spaces we capture in VR using their mobile phones.
+We think this is a breakthrough for <a href="http://vrpm.co.uk/matterport-service-partner/">Matterport and VRPM</a>, as it means that the vast majority of people can now access the spaces we capture in VR using their mobile phones.
 
-It is another piece in the jigsaw for those forward thinking people who want to market their space across multiple platforms.  Access is very easy, just download the app and then when you see one of our Matterport spaces click on the ‘glasses’ icon and put your phone into your Cardboard viewer.
+It is another piece in the jigsaw for those forward thinking people who want to market their space across multiple platforms.  Access is very easy, just download the app and then when you see one of our <a href="http://www.vrpm.co.uk/work">Matterport spaces</a> click on the ‘glasses’ icon and put your phone into your Cardboard viewer.
 
 <img class="alignnone size-full wp-image-1000" src="http://vrpm.co.uk/wp-content/uploads/2016/12/Desktop_Mobile_VR-e1483097967479.png" alt="" width="560" height="448" />
 
-For more information please contact VRPM or just download the'Matterport VR' app and start seeing.
+For more information please <a href="http://www.vrpm.co.uk/contact">contact VRPM</a> or just download the'Matterport VR' app and start seeing.
 
 &nbsp;
