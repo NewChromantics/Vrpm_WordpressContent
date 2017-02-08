@@ -35,7 +35,7 @@ sections_0_copy:
     
     &nbsp;
     
-    <a href="http://vrpm.co.uk/work/paper-mill-buildings-vr-ready-matterport-3d-virtual-tour/" target="_blank"><img class="alignnone wp-image-1166 size-full" src="http://vrpm.co.uk/wp-content/uploads/2017/02/commercial-tour-1.jpg" alt="commercial property matterport" width="1024" height="576" /></a>
+    <a href="http://vrpm.co.uk/work/paper-mill-buildings-vr-ready-matterport-3d-virtual-tour/" target="_blank"><img class="alignnone wp-image-1166 size-full" src="http://vrpm.co.uk/wp-content/uploads/2017/02/commercial-tour-1.jpg" alt="commercial property matterport" width="100%" height="100%" /></a>
     
     &nbsp;
     <h2>Multi Platform Delivery</h2>
