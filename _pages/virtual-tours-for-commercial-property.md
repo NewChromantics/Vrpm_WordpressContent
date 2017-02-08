@@ -11,7 +11,7 @@ published: true
 banner_media_type:
   - parallax
 sections:
-  - "3"
+  - "2"
 sections_0_type:
   - default
 sections_0_media:
@@ -42,7 +42,7 @@ sections_0_three_column_content_2_copy:
 sections_0_three_column_content:
   - "3"
 sections_1_type:
-  - default
+  - highlight
 sections_1_media:
   - image
 sections_1_image:
@@ -54,15 +54,14 @@ sections_1_height:
 sections_1_video:
   - ""
 sections_1_size:
-  - ""
+  - cover
 sections_1_parallax:
-  - ""
+  - "1"
 sections_1_copy:
   - |
     <h2>Next-generation immersive virtual tour</h2>
     If you are marketing commercial property to clients that may not be able to make it to the property for an initial viewing this is the solution.
     <h1>Multi Platform Delivery</h1>
-    &nbsp;
 sections_1_three_column_content_0_copy:
   - ""
 sections_1_three_column_content_1_copy:
@@ -71,32 +70,12 @@ sections_1_three_column_content_2_copy:
   - ""
 sections_1_three_column_content:
   - "3"
-sections_2_type:
-  - default
-sections_2_media:
-  - image
-sections_2_image:
-  - "1000"
-sections_2_width:
-  - ""
-sections_2_height:
-  - ""
-sections_2_video:
-  - ""
-sections_2_size:
-  - ""
-sections_2_parallax:
-  - ""
-sections_2_copy:
-  - ""
 sections_2_three_column_content_0_copy:
   - ""
 sections_2_three_column_content_1_copy:
   - ""
 sections_2_three_column_content_2_copy:
   - ""
-sections_2_three_column_content:
-  - "3"
 ---
 <h1>Commercial Property</h1>
 <h2>Virtual Tours</h2>
