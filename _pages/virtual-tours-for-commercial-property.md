@@ -30,9 +30,9 @@ sections_0_parallax:
   - ""
 sections_0_copy:
   - |
-    <h1>Office space &amp;Retail Space</h1>
+    <h1>Office space &amp; Retail Space</h1>
     <h1>Leisure &amp; Industrial Property</h1>
-    The new breed of <a href="https://vrpm.co.uk/matterport-service-partner/" target="_blank">Matterport</a> virtual tours have changed the landscape for the property industry.  Commercial Property agents can now benefit from market leading VR ready virtual tours for much less than they think..
+    The new breed of <a href="https://vrpm.co.uk/matterport-service-partner/" target="_blank">Matterport</a> virtual tours have changed the landscape for the property industry.  Commercial Property agents can now benefit from market leading VR ready virtual tours for much less than they think.
 sections_0_three_column_content_0_copy:
   - ""
 sections_0_three_column_content_1_copy:
