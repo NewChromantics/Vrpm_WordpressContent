@@ -35,7 +35,7 @@ sections_0_copy:
     
     &nbsp;
     
-    <a href="http://vrpm.co.uk/work/paper-mill-buildings-vr-ready-matterport-3d-virtual-tour/" target="_blank"><img class="alignnone size-full wp-image-1131" src="http://vrpm.co.uk/wp-content/uploads/2017/02/commercial-tour.jpg" alt="" width="1024" height="576" /></a>
+    <a href="http://vrpm.co.uk/work/paper-mill-buildings-vr-ready-matterport-3d-virtual-tour/" target="_blank"><img class="alignnone size-full wp-image-1131" src="http://vrpm.co.uk/wp-content/uploads/2017/02/commercial-tour.jpg" alt="" width="100%" height="100%" /></a>
     
     &nbsp;
     <h2></h2>
@@ -83,5 +83,6 @@ sections_2_three_column_content_1_copy:
 sections_2_three_column_content_2_copy:
   - ""
 ---
-<h1>Office | Retail</h1>
-<h4>Industrial | Leisure</h4>
+<h1>Office &amp; Retail</h1>
+&nbsp;
+<h3>Industrial | Leisure</h3>
