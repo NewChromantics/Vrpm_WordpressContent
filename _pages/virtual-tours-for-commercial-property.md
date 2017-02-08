@@ -62,7 +62,7 @@ sections_1_video:
 sections_1_size:
   - cover
 sections_1_parallax:
-  - "1"
+  - "0"
 sections_1_copy:
   - |
     <h2>Next-generation immersive virtual tour</h2>
