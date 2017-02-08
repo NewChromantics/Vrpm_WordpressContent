@@ -38,6 +38,8 @@ sections_0_copy:
     <a href="http://vrpm.co.uk/work/paper-mill-buildings-vr-ready-matterport-3d-virtual-tour/" target="_blank"><img class="alignnone size-full wp-image-1131" src="http://vrpm.co.uk/wp-content/uploads/2017/02/commercial-tour.jpg" alt="" width="100%" height="100%" /></a>
     
     &nbsp;
+    <h2>Multi Platform Delivery</h2>
+    &nbsp;
     <h2></h2>
 sections_0_three_column_content_0_copy:
   - ""
@@ -52,7 +54,7 @@ sections_1_type:
 sections_1_media:
   - image
 sections_1_image:
-  - "1137"
+  - "1139"
 sections_1_width:
   - ""
 sections_1_height:
@@ -67,7 +69,7 @@ sections_1_copy:
   - |
     <h2>Next-generation immersive virtual tour</h2>
     If you are marketing commercial property to clients that may not be able to make it to the property for an initial viewing this is the solution.
-    <h1>Multi Platform Delivery</h1>
+    <h1></h1>
 sections_1_three_column_content_0_copy:
   - ""
 sections_1_three_column_content_1_copy:
