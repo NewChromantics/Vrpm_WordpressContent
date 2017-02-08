@@ -47,7 +47,7 @@ sections_1_type:
 sections_1_media:
   - image
 sections_1_image:
-  - "1000"
+  - "1126"
 sections_1_width:
   - ""
 sections_1_height:
