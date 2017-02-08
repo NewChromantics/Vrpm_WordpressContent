@@ -79,4 +79,4 @@ sections_2_three_column_content_2_copy:
   - ""
 ---
 <h1>Commercial Property</h1>
-<h2>Virtual Tours</h2>
+<h2>Virtual Tour</h2>
