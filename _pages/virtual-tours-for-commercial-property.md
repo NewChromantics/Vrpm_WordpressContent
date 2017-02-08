@@ -41,7 +41,7 @@ sections_0_copy:
     <h2>Multi Platform Delivery</h2>
     Matterport Spaces for commercial property aren’t like your traditional virtual tour. They are completely new form of immersive 3D presentation can be seen on almost any device with an internet connection.
     
-    <img class="alignnone size-full wp-image-1139" src="http://vrpm.co.uk/wp-content/uploads/2017/02/multi-platform2.jpg" alt="" width="1280" height="720" />
+    <img class="alignnone size-full wp-image-1139" src="http://vrpm.co.uk/wp-content/uploads/2017/02/multi-platform2.jpg" alt="" width="100%" height="100%" />
 sections_0_three_column_content_0_copy:
   - ""
 sections_0_three_column_content_1_copy:
