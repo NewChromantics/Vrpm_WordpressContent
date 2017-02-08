@@ -39,8 +39,6 @@ sections_0_copy:
     
     &nbsp;
     <h2>Multi Platform Delivery</h2>
-    &nbsp;
-    <h2></h2>
 sections_0_three_column_content_0_copy:
   - ""
 sections_0_three_column_content_1_copy:
