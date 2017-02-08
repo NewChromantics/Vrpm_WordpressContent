@@ -11,7 +11,35 @@ published: true
 banner_media_type:
   - parallax
 sections:
-  - "0"
+  - "1"
+sections_0_type:
+  - default
+sections_0_media:
+  - none
+sections_0_image:
+  - ""
+sections_0_width:
+  - ""
+sections_0_height:
+  - ""
+sections_0_video:
+  - ""
+sections_0_size:
+  - ""
+sections_0_parallax:
+  - ""
+sections_0_copy:
+  - |
+    <h1>Office space, Retail Space, Leisure Space, Industrial Property</h1>
+    The new breed of Matterport virtual tours have changed the landscape for the property industry.  Commercial Property agents can now benefit from market leading VR ready virtual tours for much less than they think.
+sections_0_three_column_content_0_copy:
+  - ""
+sections_0_three_column_content_1_copy:
+  - ""
+sections_0_three_column_content_2_copy:
+  - ""
+sections_0_three_column_content:
+  - "3"
 ---
-<h1><span style="font-weight: 400;">Commercial Property</span></h1>
-<h2>Virtual Tour</h2>
+<h1>Commercial Property</h1>
+<h2>Virtual Tours</h2>
