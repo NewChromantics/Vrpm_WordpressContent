@@ -11,7 +11,7 @@ published: true
 banner_media_type:
   - parallax
 sections:
-  - "3"
+  - "2"
 sections_0_type:
   - default
 sections_0_media:
@@ -70,7 +70,7 @@ sections_1_copy:
   - |
     <h2>Next-generation immersive virtual tour</h2>
     If you are marketing commercial property to clients that may not be able to make it to the property for an initial viewing this is the solution.
-    <h1></h1>
+    <h1> From £65</h1>
 sections_1_three_column_content_0_copy:
   - ""
 sections_1_three_column_content_1_copy:
@@ -85,26 +85,6 @@ sections_2_three_column_content_1_copy:
   - ""
 sections_2_three_column_content_2_copy:
   - ""
-sections_2_type:
-  - default
-sections_2_media:
-  - none
-sections_2_image:
-  - ""
-sections_2_width:
-  - ""
-sections_2_height:
-  - ""
-sections_2_video:
-  - ""
-sections_2_size:
-  - ""
-sections_2_parallax:
-  - ""
-sections_2_copy:
-  - ""
-sections_2_three_column_content:
-  - "3"
 ---
 <h1>Office &amp; Retail</h1>
 &nbsp;
