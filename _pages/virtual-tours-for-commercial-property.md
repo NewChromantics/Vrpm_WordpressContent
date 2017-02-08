@@ -69,7 +69,7 @@ sections_1_parallax:
 sections_1_copy:
   - |
     <h2>Next-generation immersive virtual tour</h2>
-    If you are marketing commercial property to clients that may not be able to make it to the property for an initial viewing this is the solution.
+    If you are marketing commercial space to clients that may not be able to make it to the property for an initial viewing - this is the solution.
     <h1> From £65</h1>
 sections_1_three_column_content_0_copy:
   - ""
