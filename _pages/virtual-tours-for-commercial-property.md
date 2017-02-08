@@ -35,11 +35,11 @@ sections_0_copy:
     
     &nbsp;
     
-    <a href="http://vrpm.co.uk/work/paper-mill-buildings-vr-ready-matterport-3d-virtual-tour/" target="_blank"><img class="alignnone size-full wp-image-1131" src="http://vrpm.co.uk/wp-content/uploads/2017/02/commercial-tour.jpg" alt="" width="100%" height="100%" /></a>
+    <a href="http://vrpm.co.uk/work/paper-mill-buildings-vr-ready-matterport-3d-virtual-tour/" target="_blank"><img class="alignnone wp-image-1166 size-full" src="http://vrpm.co.uk/wp-content/uploads/2017/02/commercial-tour-1.jpg" alt="commercial property matterport" width="1024" height="576" /></a>
     
     &nbsp;
     <h2>Multi Platform Delivery</h2>
-    Matterport Spaces for commercial property aren’t like your traditional virtual tour. They are completely new form of immersive 3D presentation can be seen on almost any device with an internet connection.
+    Matterport Spaces for commercial property aren’t like your traditional virtual tour. They are completely new form of immersive 3D presentation that can be seen on almost any device with an internet connection.
     
     &nbsp;
 sections_0_three_column_content_0_copy:
@@ -70,7 +70,7 @@ sections_1_copy:
   - |
     <h2>Next-generation immersive virtual tour</h2>
     If you are marketing commercial space to clients that may not be able to make it to the property for an initial viewing - this is the solution.
-    <h1> From £65</h1>
+    <h1> From £65 + VAT</h1>
 sections_1_three_column_content_0_copy:
   - ""
 sections_1_three_column_content_1_copy:
